@@ -40,12 +40,13 @@ const updateEventsStatus = (id, status) => {
 
 //get Events by ID
 const getEventsById = (id) => {
-    const query = 'SELECT * FROM events WHERE id = ?';
+    console.log(id)
+    const query = 'SELECT * FROM events_gallery WHERE events_id = ?';
     return new Promise((resolve, reject) => {
         db.query(query, [id], (err, results) => {
             if (err) return reject(err);
             if (results.length === 0) return reject(new Error('events not found')); 
-            resolve(results[0]);
+            resolve(results);
         });
     });
 };

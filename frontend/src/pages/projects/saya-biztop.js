@@ -113,20 +113,20 @@ function SayaBiztop() {
         <div>
             <Navbar />
             <div class="insideBanner w-100">
-                <img src="/sayahomes-react/assets/images/saya-biztop-banner.jpg" class="h-100 object-cover" />
+                <img src="https://ecis.in/sayahomes-react/assets/images/saya-biztop-banner.jpg" class="h-100 object-cover" />
                 <div class="project-bannerBox container-lg">
-                    <div class="pageLogo"><img src="/sayahomes-react/assets/images/biztop-logo.svg" alt="Biztop" />
+                    <div class="pageLogo"><img src="https://ecis.in/sayahomes-react/assets/images/biztop-logo.svg" alt="Biztop" />
                         <p>Greater Noida West</p>
                     </div>
                     <ul class="list-inline unitsBtn">
                         <li class="bottomTranslate translate">
                             <section>
-                                <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/tower.png" alt="Biztop" /></div>
+                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/tower.png" alt="Biztop" /></div>
                                 <p><small>Floor</small><span>7<sup>th</sup>-25<sup>th</sup> Floor</span></p>
                             </section>
                         </li>
                         <li class="bottomTranslate translate"><section>
-                            <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/unit.png" alt="Biztop" /></div>
+                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/unit.png" alt="Biztop" /></div>
                             <p><small>Building Frontage</small><span>3-Side Open</span></p>
                         </section></li>
                     </ul>
@@ -137,7 +137,7 @@ function SayaBiztop() {
                 <div class="container-lg">
                     <div class="pageMenuBtn"><small></small></div>
                     <ul class="list-inline">
-                        <li class="topTranslate"><Link to='/sayahomes-react'><i class="fa fa-home"></i></Link></li>
+                        <li class="topTranslate"><Link to='/'><i class="fa fa-home"></i></Link></li>
                         <li class="topTranslate"><a href="#overview">Overview</a></li>
                         <li class="topTranslate"><a href="#amenities">Amenities</a></li>
 
@@ -150,7 +150,7 @@ function SayaBiztop() {
             <div class="breadcrumbContainer">
                 <div class="container-lg">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><Link to='/sayahomes-react'>Home</Link></li>
+                        <li class="breadcrumb-item"><Link to='/'>Home</Link></li>
                         <li class="breadcrumb-item active" aria-current="page">Biztop</li>
                     </ol>
                 </div>
@@ -170,7 +170,7 @@ function SayaBiztop() {
                                 <ul class="list-inline unitsBtn overview-unitsBtn">
                                     <li class="bottomTranslate translate">
                                         <section>
-                                            <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/unit.png" alt="Biztop" /></div>
+                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/unit.png" alt="Biztop" /></div>
                                             <p><small>Families</small>5 Lakh +<span></span></p>
                                         </section>
                                     </li>
@@ -182,7 +182,7 @@ function SayaBiztop() {
             </section>
             <section class="w-100">
                 <a name="amenities"></a>
-                <div id="amenities" class="w-100 padding amenitiesContainer" style={{ backgroundImage: "url(/sayahomes-react/assets/images/biztop/amenities.jpg)" }}>
+                <div id="amenities" class="w-100 padding amenitiesContainer" style={{ backgroundImage: "url(https://ecis.in/sayahomes-react/assets/images/biztop/amenities.jpg)" }}>
 
                     <div class="container-lg amenitiesWrapper">
                         <div class="amenBox">
@@ -191,22 +191,22 @@ function SayaBiztop() {
                                 <div class="allItems">
                                     <ul class="list-inline halfList">
                                         <li>
-                                            <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/party-lawn.png" alt="party-lawn" /></div><span>Bar &amp; Lounge</span>
+                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/party-lawn.png" alt="party-lawn" /></div><span>Bar &amp; Lounge</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/swimming.png" alt="swimming" /></div><span>Swimming Pool</span>
+                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/swimming.png" alt="swimming" /></div><span>Swimming Pool</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/gym.png" alt="gym" /></div><span>Gymnasium</span>
+                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/gym.png" alt="gym" /></div><span>Gymnasium</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/town-hall.png" alt="Banquets" /></div><span>Banquets</span>
+                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/town-hall.png" alt="Banquets" /></div><span>Banquets</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/dinner.png" alt="Dining Restaurant" /></div><span>Dining Restaurant</span>
+                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/dinner.png" alt="Dining Restaurant" /></div><span>Dining Restaurant</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/parking.png" alt="Covered Car Parking" /></div><span>Covered Car Parking</span>
+                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/parking.png" alt="Covered Car Parking" /></div><span>Covered Car Parking</span>
                                         </li>
                                     </ul>
                                 </div>
@@ -220,16 +220,16 @@ function SayaBiztop() {
                                 <div class="allItems">
                                     <ul class="list-inline halfList">
                                         <li>
-                                            <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/food_court.png" alt="Food Court" /></div><span>Food Court</span>
+                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/food_court.png" alt="Food Court" /></div><span>Food Court</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/lobby.png" alt="A.C. Lobby" /></div><span>A.C. Lobby</span>
+                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/lobby.png" alt="A.C. Lobby" /></div><span>A.C. Lobby</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/power-backup.png" alt="Power Back-up" /></div><span>24/7 Power Back-up</span>
+                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/power-backup.png" alt="Power Back-up" /></div><span>24/7 Power Back-up</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/golf-field.png" alt="golf-field" /></div><span>Golf Course</span>
+                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/golf-field.png" alt="golf-field" /></div><span>Golf Course</span>
                                         </li>
                                     </ul>
                                 </div>
@@ -243,16 +243,16 @@ function SayaBiztop() {
                                 <div class="allItems">
                                     <ul class="list-inline">
                                         <li>
-                                            <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/road.png" alt="road" /></div><span> NH24 (Now Nh9) Sector-120, Noida<br />0-5 Min</span>
+                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/road.png" alt="road" /></div><span> NH24 (Now Nh9) Sector-120, Noida<br />0-5 Min</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/location1.png" alt="location" /></div><span> Crossing Republik<br />0-5 Min</span>
+                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/location1.png" alt="location" /></div><span> Crossing Republik<br />0-5 Min</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/school.png" alt="school" /></div><span>Wisdom Tree School<br />0-5 Min</span>
+                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/school.png" alt="school" /></div><span>Wisdom Tree School<br />0-5 Min</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/hospital.png" alt="hospital" /></div><span>Fortis Hospital Sai Temple Sector-52<br />5-10 Min</span>
+                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/hospital.png" alt="hospital" /></div><span>Fortis Hospital Sai Temple Sector-52<br />5-10 Min</span>
                                         </li>
                                     </ul>
                                     <div class="readmore"><a href="#modalforms" data-toggle="modal" data-modaltype="View on Map" data-brochure="" data-pagename="biztop.php" data-projectname="Biztop" class="button"><span class="text">View on Map</span></a></div>
@@ -267,10 +267,10 @@ function SayaBiztop() {
                                 <div class="allItems">
                                     <ul class="list-inline">
                                         <li>
-                                            <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/security.png" alt="security" /></div><span>3-tier Cloud-based Security</span>
+                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/security.png" alt="security" /></div><span>3-tier Cloud-based Security</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/cctv.png" alt="cctv" /></div><span>24x7 CCTV Surveillance</span>
+                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/cctv.png" alt="cctv" /></div><span>24x7 CCTV Surveillance</span>
                                         </li>
                                     </ul>
                                 </div>
@@ -284,13 +284,13 @@ function SayaBiztop() {
                                 <div class="allItems">
                                     <ul class="list-inline">
                                         <li>
-                                            <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/park.png" alt="park" /></div><span>Park</span>
+                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/park.png" alt="park" /></div><span>Park</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/hospital.png" alt="hospital" /></div><span>Hospitals</span>
+                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/hospital.png" alt="hospital" /></div><span>Hospitals</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/school.png" alt="Schools" /></div><span>Schools</span>
+                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/school.png" alt="Schools" /></div><span>Schools</span>
                                         </li>
                                     </ul>
                                 </div>
@@ -313,10 +313,10 @@ function SayaBiztop() {
                             <div class="swiper-wrapper" id="swiper-wrapper-7a987faf5c81061043" aria-live="polite" style={{ transform: "translate3d(0px, 0px, 0px)" }}>
                                 <div class="swiper-slide specSlide swiper-slide-active" role="group" aria-label="1 / 6" style={{ marginRight: "30px" }}>
                                     <div class="specDetails">
-                                        <div class="spec-img"><img src="/sayahomes-react/assets/images/biztop/specifications/hub.jpg" alt="Details of Hub" /></div>
+                                        <div class="spec-img"><img src="https://ecis.in/sayahomes-react/assets/images/biztop/specifications/hub.jpg" alt="Details of Hub" /></div>
                                         <div class="inner">
                                             <div class="spec-title">
-                                                <div class="img-fluid"><img src="/sayahomes-react/assets/images/icons/business-suites.svg" class="filter-dark" alt="Details of Hub" /></div>
+                                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/icons/business-suites.svg" class="filter-dark" alt="Details of Hub" /></div>
                                                 <h6>Details of Hub</h6>
                                             </div>
                                             <div class="scroller">
@@ -332,10 +332,10 @@ function SayaBiztop() {
                                 </div>
                                 <div class="swiper-slide specSlide swiper-slide-next" role="group" aria-label="2 / 6" style={{ marginRight: "30px" }}>
                                     <div class="specDetails">
-                                        <div class="spec-img"><img src="/sayahomes-react/assets/images/biztop/specifications/escalator.jpg" alt="Lift and Escalator" /></div>
+                                        <div class="spec-img"><img src="https://ecis.in/sayahomes-react/assets/images/biztop/specifications/escalator.jpg" alt="Lift and Escalator" /></div>
                                         <div class="inner">
                                             <div class="spec-title">
-                                                <div class="img-fluid"><img src="/sayahomes-react/assets/images/icons/lift.png" class="filter-dark" alt="Lift and Escalator" /></div>
+                                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/icons/lift.png" class="filter-dark" alt="Lift and Escalator" /></div>
                                                 <h6>Lift and Escalator</h6>
                                             </div>
                                             <div class="scroller">
@@ -349,10 +349,10 @@ function SayaBiztop() {
                                 </div>
                                 <div class="swiper-slide specSlide" role="group" aria-label="3 / 6" style={{ marginRight: "30px" }}>
                                     <div class="specDetails">
-                                        <div class="spec-img"><img src="/sayahomes-react/assets/images/biztop/specifications/lobby.jpg" alt="Entrance Lobby &amp; Common Area" /></div>
+                                        <div class="spec-img"><img src="https://ecis.in/sayahomes-react/assets/images/biztop/specifications/lobby.jpg" alt="Entrance Lobby &amp; Common Area" /></div>
                                         <div class="inner">
                                             <div class="spec-title">
-                                                <div class="img-fluid"><img src="/sayahomes-react/assets/images/icons/lobby.png" class="filter-dark" alt="Entrance Lobby &amp; Common Area" /></div>
+                                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/icons/lobby.png" class="filter-dark" alt="Entrance Lobby &amp; Common Area" /></div>
                                                 <h6>Entrance Lobby &amp; Common Area</h6>
                                             </div>
                                             <div class="scroller">
@@ -372,10 +372,10 @@ function SayaBiztop() {
                                 </div>
                                 <div class="swiper-slide specSlide" role="group" aria-label="4 / 6" style={{ marginRight: "30px" }}>
                                     <div class="specDetails">
-                                        <div class="spec-img"><img src="/sayahomes-react/assets/images/biztop/specifications/basement-area.jpg" alt="Basement Area" /></div>
+                                        <div class="spec-img"><img src="https://ecis.in/sayahomes-react/assets/images/biztop/specifications/basement-area.jpg" alt="Basement Area" /></div>
                                         <div class="inner">
                                             <div class="spec-title">
-                                                <div class="img-fluid"><img src="/sayahomes-react/assets/images/icons/building1.png" class="filter-dark" alt="Basement Area" /></div>
+                                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/icons/building1.png" class="filter-dark" alt="Basement Area" /></div>
                                                 <h6>Basement Area</h6>
                                             </div>
                                             <div class="scroller">
@@ -391,10 +391,10 @@ function SayaBiztop() {
                                 </div>
                                 <div class="swiper-slide specSlide" role="group" aria-label="5 / 6" style={{ marginRight: "30px" }}>
                                     <div class="specDetails">
-                                        <div class="spec-img"><img src="/sayahomes-react/assets/images/biztop/specifications/dg.jpg" alt="Services" /></div>
+                                        <div class="spec-img"><img src="https://ecis.in/sayahomes-react/assets/images/biztop/specifications/dg.jpg" alt="Services" /></div>
                                         <div class="inner">
                                             <div class="spec-title">
-                                                <div class="img-fluid"><img src="/sayahomes-react/assets/images/icons/generator.svg" class="filter-dark" alt="Services" /></div>
+                                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/icons/generator.svg" class="filter-dark" alt="Services" /></div>
                                                 <h6>Services</h6>
                                             </div>
                                             <div class="scroller">
@@ -408,10 +408,10 @@ function SayaBiztop() {
                                 </div>
                                 <div class="swiper-slide specSlide" role="group" aria-label="6 / 6" style={{ marginRight: "30px" }}>
                                     <div class="specDetails">
-                                        <div class="spec-img"><img src="/sayahomes-react/assets/images/biztop/specifications/presidential-club-amenties.jpg" alt="Presidential Club Amenities" /></div>
+                                        <div class="spec-img"><img src="https://ecis.in/sayahomes-react/assets/images/biztop/specifications/presidential-club-amenties.jpg" alt="Presidential Club Amenities" /></div>
                                         <div class="inner">
                                             <div class="spec-title">
-                                                <div class="img-fluid"><img src="/sayahomes-react/assets/images/icons/swimming.png" class="filter-dark" alt="Presidential Club Amenities" /></div>
+                                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/icons/swimming.png" class="filter-dark" alt="Presidential Club Amenities" /></div>
                                                 <h6>Presidential Club Amenities (On Paid Basis)</h6>
                                             </div>
                                             <div class="scroller">
@@ -473,33 +473,33 @@ function SayaBiztop() {
                                 <div class="swiper extSlider w-100 swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
                                     <div class="swiper-wrapper" id="swiper-wrapper-67905a107ab10816d10" aria-live="polite" style={{ transform: "translate3d(0px, 0px, 0px)" }}>
                                         <div class="swiper-slide gallSlide swiper-slide-active" role="group" aria-label="1 / 6" style={{ marginRight: "30px" }}>
-                                            <a href="/sayahomes-react/assets/images/biztop/gallery/3.webp" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="/sayahomes-react/assets/images/biztop/gallery/3.webp" alt="Biztop" />
+                                            <a href="https://ecis.in/sayahomes-react/assets/images/biztop/gallery/3.webp" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://ecis.in/sayahomes-react/assets/images/biztop/gallery/3.webp" alt="Biztop" />
                                             </a>
                                         </div>
                                         <div class="swiper-slide gallSlide swiper-slide-next" role="group" aria-label="2 / 6" style={{ marginRight: "30px" }}>
-                                            <a href="/sayahomes-react/assets/images/biztop/gallery/4.webp" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="/sayahomes-react/assets/images/biztop/gallery/4.webp" alt="Biztop" />
+                                            <a href="https://ecis.in/sayahomes-react/assets/images/biztop/gallery/4.webp" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://ecis.in/sayahomes-react/assets/images/biztop/gallery/4.webp" alt="Biztop" />
                                             </a>
                                         </div>
                                         <div class="swiper-slide gallSlide" role="group" aria-label="3 / 6" style={{ marginRight: "30px" }}>
-                                            <a href="/sayahomes-react/assets/images/biztop/gallery/6.webp" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="/sayahomes-react/assets/images/biztop/gallery/6.webp" alt="Biztop" />
+                                            <a href="https://ecis.in/sayahomes-react/assets/images/biztop/gallery/6.webp" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://ecis.in/sayahomes-react/assets/images/biztop/gallery/6.webp" alt="Biztop" />
                                             </a>
                                         </div>
                                         <div class="swiper-slide gallSlide" role="group" aria-label="4 / 6" style={{ marginRight: "30px" }}>
-                                            <a href="/sayahomes-react/assets/images/biztop/gallery/8.webp" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="/sayahomes-react/assets/images/biztop/gallery/8.webp" alt="Biztop" />
+                                            <a href="https://ecis.in/sayahomes-react/assets/images/biztop/gallery/8.webp" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://ecis.in/sayahomes-react/assets/images/biztop/gallery/8.webp" alt="Biztop" />
                                             </a>
                                         </div>
                                         <div class="swiper-slide gallSlide" role="group" aria-label="5 / 6" style={{ marginRight: "30px" }}>
-                                            <a href="/sayahomes-react/assets/images/biztop/gallery/12.webp" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="/sayahomes-react/assets/images/biztop/gallery/12.webp" alt="Biztop" />
+                                            <a href="https://ecis.in/sayahomes-react/assets/images/biztop/gallery/12.webp" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://ecis.in/sayahomes-react/assets/images/biztop/gallery/12.webp" alt="Biztop" />
                                             </a>
                                         </div>
                                         <div class="swiper-slide gallSlide" role="group" aria-label="6 / 6" style={{ marginRight: "30px" }}>
-                                            <a href="/sayahomes-react/assets/images/biztop/gallery/14.webp" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="/sayahomes-react/assets/images/biztop/gallery/14.webp" alt="Biztop" />
+                                            <a href="https://ecis.in/sayahomes-react/assets/images/biztop/gallery/14.webp" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://ecis.in/sayahomes-react/assets/images/biztop/gallery/14.webp" alt="Biztop" />
                                             </a>
                                         </div>
                                     </div>
@@ -522,7 +522,7 @@ function SayaBiztop() {
                                 id="galleryContainer-location"
                             >
                                 <div class="img-fluid">
-                                    <a href="/sayahomes-react/assets/images/biztop/biztop-location.jpg" data-magnify="sp" data-group="sp" data-caption="Location Map"><img src="/sayahomes-react/assets/images/biztop/biztop-location.jpg" alt="Location Map" /></a>
+                                    <a href="https://ecis.in/sayahomes-react/assets/images/biztop/biztop-location.jpg" data-magnify="sp" data-group="sp" data-caption="Location Map"><img src="/sayahomes-react/assets/images/biztop/biztop-location.jpg" alt="Location Map" /></a>
                                 </div>
                             </div>
                         </div>

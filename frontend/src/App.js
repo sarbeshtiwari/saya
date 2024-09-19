@@ -2,9 +2,9 @@ import './css/all.min.css';
 import './css/bootstrap.min.css';
 import './css/jquery.magnify.css';
 import './css/swiper-bundle.min.css';
-import './css/custom5.beta2.css'
+import './css/custom5.beta2.css';
 import './css/responsive.css';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import Home from './pages/home';
 import AboutUs from './pages/about-us';
 import Residentials from './pages/projects/residentials';
@@ -27,36 +27,43 @@ import Projects from './pages/projects/projects';
 import SayaBiztop from './pages/projects/saya-biztop';
 import ScrollToTop from './scrollToTop';
 import BlogsDetail from './pages/media/blogs-detail';
+import EventDetail from './pages/media/event-details';
+import DetailTestimonial from './pages/projects/detail-testimonial';
+import PrivacyPolicy from './pages/projects/privacy-policy';
+
 function App() {
   return (
-    <div className="App" basename='/sayahomes-react'>
+    <div className="App" basename='/'>
       <Router>
         <ScrollToTop />
         <Routes>
-        <Route path="/sayahomes-react" element={<Home />} />
-        <Route path="/sayahomes-react/about-us" element={<AboutUs />} />
-        <Route path="/sayahomes-react/projects" element={<Projects />} />
-        <Route path="/sayahomes-react/residential" element={<Residentials />} />
-        <Route path="/sayahomes-react/commericial" element={<Commercial />} />
-        <Route path="/sayahomes-react/saya-gold-avenue" element={<SayaGoldAvenue />} />
-        <Route path="/sayahomes-react/saya-zion" element={<SayaZion />} />
-        <Route path="/sayahomes-react/saya-southX" element={<SayaSouthX />} />
-        <Route path="/sayahomes-react/saya-piazza" element={<SayaPiazza />} />
-        <Route path="/sayahomes-react/saya-zenith" element={<SayaZenith />} />
-        <Route path="/sayahomes-react/saya-desire-residency" element={<SayaDesireResidency />} />
-        <Route path="/sayahomes-react/saya-biztop" element={<SayaBiztop />} />
-        <Route path="/sayahomes-react/in-the-media" element={<InTheMedia />} />
-        <Route path="/sayahomes-react/media-blogs" element={<MediaBlogs />} />
-        <Route path="/sayahomes-react/events" element={<Events />} />
-        <Route path="/sayahomes-react/csr" element={<CSR />} />
-        <Route path="/sayahomes-react/construction-updates" element={<ConstructionUpdates />} />
-        <Route path="/sayahomes-react/customer-supports" element={<CustomerSupports />} />
-        <Route path="/sayahomes-react/careers" element={<Careers />} />
-        <Route path="/sayahomes-react/contact-us" element={<ContactUs />} />
-        <Route path='/sayahomes-react/blog-details/:slugurl' element={<BlogsDetail/>}/>
+          <Route path="/" element={<Navigate to="/home" />} />
+          <Route path="/home" element={<Home />} />
+          <Route path="/about-us" element={<AboutUs />} />
+          <Route path="/projects" element={<Projects />} />
+          <Route path="/residential" element={<Residentials />} />
+          <Route path="/commercial" element={<Commercial />} />
+          <Route path="/saya-gold-avenue" element={<SayaGoldAvenue />} />
+          <Route path="/saya-zion" element={<SayaZion />} />
+          <Route path="/saya-southX" element={<SayaSouthX />} />
+          <Route path="/saya-piazza" element={<SayaPiazza />} />
+          <Route path="/saya-zenith" element={<SayaZenith />} />
+          <Route path="/saya-desire-residency" element={<SayaDesireResidency />} />
+          <Route path="/saya-biztop" element={<SayaBiztop />} />
+          <Route path="/in-the-media" element={<InTheMedia />} />
+          <Route path="/blogs" element={<MediaBlogs />} />
+          <Route path="/events" element={<Events />} />
+          <Route path="/csr" element={<CSR />} />
+          <Route path="/construction-updates" element={<ConstructionUpdates />} />
+          <Route path="/customer-supports" element={<CustomerSupports />} />
+          <Route path="/careers" element={<Careers />} />
+          <Route path="/contact-us" element={<ContactUs />} />
+          <Route path='/blog-details/:slugurl' element={<BlogsDetail />} />
+          <Route path='/event-details/:id/:title' element={<EventDetail />} />
+          <Route path='/testimonials' element={<DetailTestimonial />} />
+          <Route path='/privacy-policy' element={<PrivacyPolicy />} />
         </Routes>
       </Router>
-
     </div>
   );
 }

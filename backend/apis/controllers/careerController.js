@@ -27,7 +27,7 @@ const storage = multer.diskStorage({
 // controllers/Careers.js
 const createCareer = async (req, res) => {
     try {
-      upload.single('image')(req, res, async (err) => {
+      upload.single('resume')(req, res, async (err) => {
         if (err) return res.status(400).send(err.message);
   
         const tempFilePath = req.file ? req.file.path : null;
@@ -38,11 +38,11 @@ const createCareer = async (req, res) => {
   
         try {
           // No Cloudinary upload needed, use local path
-          const image = tempFilePath;
+          const resume = tempFilePath;
   
           // Add Career to database
           const {
-            name, email, mobile, position, experience, resume, created
+            name, email, mobile, position, experience, created
           } = req.body;
   
           const result = await addCareers(name, email, mobile, position, experience, resume, created);

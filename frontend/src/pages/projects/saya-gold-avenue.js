@@ -170,26 +170,26 @@ function SayaGoldAvenue() {
                     <div className="carousel-inner h-100">
                         <div className="carousel-item h-100 active">
                             <picture>
-                                <source media="(min-width: 768px)" srcset="/sayahomes-react/assets/images/banner/6.jpg" />
-                                    <img src="/sayahomes-react/assets/images/banner/6.jpg" className="h-100 object-cover" alt="" />
+                                <source media="(min-width: 768px)" srcset="https://ecis.in/sayahomes-react/assets/images/banner/6.jpg" />
+                                    <img src="https://ecis.in/sayahomes-react/assets/images/banner/6.jpg" className="h-100 object-cover" alt="" />
                                     </picture>
                                 </div>
                                 <div className="carousel-item h-100">
                                     <picture>
-                                        <source media="(min-width: 768px)" srcset="/sayahomes-react/assets/images/banner/2.jpg" />
-                                            <img src="/sayahomes-react/assets/images/banner/2.jpg" className="h-100 object-cover" alt="" />
+                                        <source media="(min-width: 768px)" srcset="https://ecis.in/sayahomes-react/assets/images/banner/2.jpg" />
+                                            <img src="https://ecis.in/sayahomes-react/assets/images/banner/2.jpg" className="h-100 object-cover" alt="" />
                                             </picture>
                                         </div>
                                         <div className="carousel-item h-100">
                                             <picture>
-                                                <source media="(min-width: 768px)" srcset="/sayahomes-react/assets/images/banner/3.jpg" />
-                                                    <img src="/sayahomes-react/assets/images/banner/3.jpg" className="h-100 object-cover" alt="" />
+                                                <source media="(min-width: 768px)" srcset="https://ecis.in/sayahomes-react/assets/images/banner/3.jpg" />
+                                                    <img src="https://ecis.in/sayahomes-react/assets/images/banner/3.jpg" className="h-100 object-cover" alt="" />
                                                     </picture>
                                                 </div>
                                                 <div className="carousel-item h-100">
                                                     <picture>
-                                                        <source media="(min-width: 768px)" srcset="/sayahomes-react/assets/images/banner/7.jpg" />
-                                                            <img src="/sayahomes-react/assets/images/banner/7.jpg" className="h-100 object-cover" alt="" />
+                                                        <source media="(min-width: 768px)" srcset="https://ecis.in/sayahomes-react/assets/images/banner/7.jpg" />
+                                                            <img src="https://ecis.in/sayahomes-react/assets/images/banner/7.jpg" className="h-100 object-cover" alt="" />
                                                             </picture>
                                                         </div>
                                                 </div>
@@ -206,20 +206,20 @@ function SayaGoldAvenue() {
                                         </div>
 
                                         <div class="project-bannerBox container-lg">
-                                            <div class="pageLogo"><img src="/sayahomes-react/assets/images/logo-saya-gold-avenue-white.png" alt="Saya Gold Avenue" />
+                                            <div class="pageLogo"><img src="https://ecis.in/sayahomes-react/assets/images/logo-saya-gold-avenue-white.png" alt="Saya Gold Avenue" />
                                                 <p>Indirapuram, Ghaziabad</p>
                                             </div>
                                             <ul class="list-inline unitsBtn">
 
                                                 <li class="bottomTranslate translate ">
                                                     <section>
-                                                        <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/tower.png" alt="Saya Gold Avenue" /></div>
+                                                        <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/tower.png" alt="Saya Gold Avenue" /></div>
                                                         <p><small>BHK</small><span>2/3/4</span></p>
                                                     </section>
                                                 </li>
                                                 <li class="bottomTranslate translate ">
                                                     <section>
-                                                        <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/area.png" alt="Saya Gold Avenue" /></div>
+                                                        <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/area.png" alt="Saya Gold Avenue" /></div>
                                                         <p><small>Club Area</small><span>7432 sqmt</span></p>
                                                     </section>
                                                 </li>
@@ -231,7 +231,7 @@ function SayaGoldAvenue() {
                                     <div className="container-lg">
                                         <div className="pageMenuBtn"><small></small></div>
                                         <ul className="list-inline">
-                                            <li className="topTranslate "><Link to='/sayahomes-react'><i className="fa fa-home"></i></Link></li>
+                                            <li className="topTranslate "><Link to='/home'><i className="fa fa-home"></i></Link></li>
                                             <li className="topTranslate "><a href="#overview">Overview</a></li>
                                             <li className="topTranslate "><a href="#amenities">Amenities</a></li>
                                             <li className="topTranslate "><a href="#specifications">Specifications</a></li>
@@ -246,7 +246,7 @@ function SayaGoldAvenue() {
                                 <div className="breadcrumbContainer">
                                     <div className="container-lg">
                                         <ol className="breadcrumb">
-                                            <li className="breadcrumb-item"><a href="/">Home</a></li>
+                                            <li className="breadcrumb-item"><a href="/home">Home</a></li>
                                             <li className="breadcrumb-item active" aria-current="page">Saya Gold Avenue</li>
                                         </ol>
                                     </div>
@@ -298,7 +298,7 @@ function SayaGoldAvenue() {
                                 </section>
                                 <section class="w-100">
                                     <a name="amenities"></a>
-                                    <div id="amenities" class="w-100 padding amenitiesContainer" style={{ backgroundImage: "url(/sayahomes-react/assets/images/gold-avenue/amenities.jpg)" }}>
+                                    <div id="amenities" class="w-100 padding amenitiesContainer" style={{ backgroundImage: "url(https://ecis.in/sayahomes-react/assets/images/gold-avenue/amenities.jpg)" }}>
 
                                         <div class="container-lg amenitiesWrapper">
                                             <div class="amenBox">
@@ -307,22 +307,22 @@ function SayaGoldAvenue() {
                                                     <div class="allItems">
                                                         <ul class="list-inline halfList">
                                                             <li>
-                                                                <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/club-house.png" alt="Clubhouse" /></div><span>Clubhouse</span>
+                                                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/club-house.png" alt="Clubhouse" /></div><span>Clubhouse</span>
                                                             </li>
                                                             <li>
-                                                                <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/jacuzzi1.png" alt="jacuzzi" /></div><span>Jacuzzi</span>
+                                                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/jacuzzi1.png" alt="jacuzzi" /></div><span>Jacuzzi</span>
                                                             </li>
                                                             <li>
-                                                                <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/gym.png" alt="Gymnasium" /></div><span>Gymnasium</span>
+                                                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/gym.png" alt="Gymnasium" /></div><span>Gymnasium</span>
                                                             </li>
                                                             <li>
-                                                                <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/swimming.png" alt="Swimming Pool" /></div><span>Swimming Pool</span>
+                                                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/swimming.png" alt="Swimming Pool" /></div><span>Swimming Pool</span>
                                                             </li>
                                                             <li>
-                                                                <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/party-lawn.png" alt="Party Lawn" /></div><span>Party Lawn</span>
+                                                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/party-lawn.png" alt="Party Lawn" /></div><span>Party Lawn</span>
                                                             </li>
                                                             <li>
-                                                                <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/jogging.png" alt="Jogging Track" /></div><span>Jogging Track</span>
+                                                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/jogging.png" alt="Jogging Track" /></div><span>Jogging Track</span>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -336,16 +336,16 @@ function SayaGoldAvenue() {
                                                     <div class="allItems">
                                                         <ul class="list-inline halfList">
                                                             <li>
-                                                                <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/lift.png" alt="Hi-speed Elevators" /></div><span>Elevators</span>
+                                                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/lift.png" alt="Hi-speed Elevators" /></div><span>Elevators</span>
                                                             </li>
                                                             <li>
-                                                                <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/security.png" alt="security" /></div><span>Security</span>
+                                                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/security.png" alt="security" /></div><span>Security</span>
                                                             </li>
                                                             <li>
-                                                                <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/power-backup.png" alt="Power Back-up" /></div><span>Power Back-up</span>
+                                                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/power-backup.png" alt="Power Back-up" /></div><span>Power Back-up</span>
                                                             </li>
                                                             <li>
-                                                                <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/parking.png" alt="Parking" /></div><span>Parking</span>
+                                                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/parking.png" alt="Parking" /></div><span>Parking</span>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -359,13 +359,13 @@ function SayaGoldAvenue() {
                                                     <div class="allItems">
                                                         <ul class="list-inline">
                                                             <li>
-                                                                <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/railway.png" alt="railway" /></div><span>Electronic city centre<br />- 1 Km approx</span>
+                                                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/railway.png" alt="railway" /></div><span>Electronic city centre<br />- 1 Km approx</span>
                                                             </li>
                                                             <li>
-                                                                <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/highway.png" alt="highway" /></div><span>NH-24<br />- 200 mtrs approx</span>
+                                                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/highway.png" alt="highway" /></div><span>NH-24<br />- 200 mtrs approx</span>
                                                             </li>
                                                             <li>
-                                                                <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/road.png" alt="road" /></div><span>45m wide approach roads</span>
+                                                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/road.png" alt="road" /></div><span>45m wide approach roads</span>
                                                             </li>
                                                         </ul>
                                                         <div class="readmore"><a href="#modalforms" data-toggle="modal" data-pagename="saya-gold-avenue.php" data-projectname="Saya Gold Avenue" class="button"><span class="text">View on Map</span></a></div>
@@ -380,10 +380,10 @@ function SayaGoldAvenue() {
                                                     <div class="allItems">
                                                         <ul class="list-inline">
                                                             <li>
-                                                                <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/security.png" alt="security" /></div><span>3-tier Security</span>
+                                                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/security.png" alt="security" /></div><span>3-tier Security</span>
                                                             </li>
                                                             <li>
-                                                                <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/cctv.png" alt="cctv" /></div><span>24x7 CCTV Surveillance</span>
+                                                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/cctv.png" alt="cctv" /></div><span>24x7 CCTV Surveillance</span>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -397,19 +397,19 @@ function SayaGoldAvenue() {
                                                     <div class="allItems">
                                                         <ul class="list-inline">
                                                             <li>
-                                                                <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/temple.png" alt="temple" /></div><span>Sai Mandir - 1 km</span>
+                                                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/temple.png" alt="temple" /></div><span>Sai Mandir - 1 km</span>
                                                             </li>
                                                             <li>
-                                                                <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/park.png" alt="park" /></div><span>25 Acre Swarn Jayanti Park</span>
+                                                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/park.png" alt="park" /></div><span>25 Acre Swarn Jayanti Park</span>
                                                             </li>
                                                             <li>
-                                                                <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/mall.png" alt="mall" /></div><span>Shopping Mall</span>
+                                                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/mall.png" alt="mall" /></div><span>Shopping Mall</span>
                                                             </li>
                                                             <li>
-                                                                <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/hospital.png" alt="hospital" /></div><span>Hospitals</span>
+                                                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/hospital.png" alt="hospital" /></div><span>Hospitals</span>
                                                             </li>
                                                             <li>
-                                                                <div class="imgBox"><img src="/sayahomes-react/assets/images/icons/school.png" alt="Schools" /></div><span>Schools</span>
+                                                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/school.png" alt="Schools" /></div><span>Schools</span>
                                                             </li>
                                                         </ul>
                                                     </div>

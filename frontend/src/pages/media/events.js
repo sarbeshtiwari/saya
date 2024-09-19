@@ -425,7 +425,7 @@ function Events() {
         // Fetch events data from API
         const fetchEvents = async () => {
             try {
-                const response = await axios.get('http://localhost:8080/events/get');
+                const response = await axios.get('https://ecis.in/apis/sayahomes/events/get');
                 setEvents(response.data);
                 console.log(response.data)
             } catch (error) {

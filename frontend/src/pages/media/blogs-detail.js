@@ -14,7 +14,7 @@ export default function BlogsDetail() {
 
   const fetchBlog = async (slugurl) => {
     try {
-      const result = await axios.get(`http://localhost:8080/blog/getBySlug/${slugurl}`);
+      const result = await axios.get(`https://ecis.in/apis/sayahomes/blog/getBySlug/${slugurl}`);
       setBlog(result.data.data); // Assuming the API returns a single blog object
     } catch (error) {
       console.log(error);

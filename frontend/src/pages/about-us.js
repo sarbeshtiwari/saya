@@ -25,7 +25,7 @@ function AboutUs() {
                 <div class="breadcrumbContainer">
                     <div class="container-lg">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><Link to='/sayahomes-react'>Home</Link></li>
+                            <li class="breadcrumb-item"><Link to='/home'>Home</Link></li>
                             <li class="breadcrumb-item active" aria-current="page">About Us</li>
                         </ol>
                     </div>

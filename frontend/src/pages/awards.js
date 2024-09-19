@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react'
+import { Link } from 'react-router-dom';
 import Swiper from 'swiper/bundle';
 import 'swiper/css/bundle';
 function Awards() {
@@ -247,7 +248,7 @@ function Awards() {
                         </div>
                         <div className="bottomControls">
                             <div className="swiper-button-prev solid"></div>
-                            <div className="viewmore"><a href="#" className="button stroke">View All Awards</a></div>
+                            <div className="viewmore"><Link to="/about-us" className="button stroke">View All Awards</Link></div>
                             <div className="swiper-button-next solid"></div>
                         </div>
                     </div>

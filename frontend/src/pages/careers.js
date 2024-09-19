@@ -57,7 +57,7 @@ function Careers() {
         }
 
         try {
-            const response = await axios.post('http://localhost:8080/addCareer', formDataToSend, {
+            const response = await axios.post('https://ecis.in/apis/sayahomes/career/upload', formDataToSend, {
                 headers: {
                     'Content-Type': 'multipart/form-data'
                 }
@@ -69,8 +69,8 @@ function Careers() {
                 crlastname: '',
                 crmobile: '',
                 cremail: '',
-                jobPosition: 'Developer',
-                experience: '3 years',
+                jobPosition: '',
+                experience: '',
                 shortdescription: '',
                 resume: null
             });
@@ -390,7 +390,7 @@ function Careers() {
                                     </div>
                                     <div className="col-md-4 col-sm-6 form-group">
                                         <label for="specialization">Attach Your Resume <span className="text-danger">*</span></label>
-                                        <input type="file" name="resume" id="resume" onChange="chkFile(this)" accept="application/pdf,.doc,.docx,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document" size="34" maxlength="255" className="form-control form-control-bg" />
+                                        <input type="file" name="resume" id="resume" onChange={handleFileChange} accept="application/pdf,.doc,.docx,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document" size="34" maxlength="255" className="form-control form-control-bg" />
                                         <input type="hidden" name="Resume" id="resume" />
 
                                         <div className="col-md-12 form-group readmore">

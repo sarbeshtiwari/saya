@@ -1,4 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
+import { Link } from 'react-router-dom';
 import Swiper from 'swiper';
 
 function Testimonials() {
@@ -171,7 +172,7 @@ function Testimonials() {
                         </div>
                         <div className="bottomControls">
                             <div className="swiper-button-prev solid"></div>
-                            <div className="viewmore"><a href="#" className="button stroke white">View All Testimonials</a></div>
+                            <div className="viewmore"><Link to="/testimonials" className="button stroke white">View All Testimonials</Link></div>
                             <div className="swiper-button-next solid"></div>
                         </div>
                     </div>

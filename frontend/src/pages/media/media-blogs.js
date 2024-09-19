@@ -21,8 +21,8 @@ function MediaBlogs() {
   // Function to fetch data from the API
   const fetchBlogs = async () => {
     try {
-      const result = await axios.get('http://localhost:8080/blog/get');
-      const result1 = await axios.get('http://localhost:8080/blog/getRecentBlogs');
+      const result = await axios.get('https://ecis.in/apis/sayahomes/blog/get');
+      const result1 = await axios.get('https://ecis.in/apis/sayahomes/blog/getRecentBlogs');
       setRecentBlogs(result1.data);
       setBlogs(result.data); // Assuming the API returns blog data
       console.log(result.data);
@@ -66,7 +66,7 @@ function MediaBlogs() {
                 />
               </figure>
               <article>
-                <Link to={`/sayahomes-react/blog-details/${blog.slugurl}`} className="news-title">
+                <Link to={`/blog-details/${blog.slugurl}`} className="news-title">
                   <p className="h5 mb-0 font-weight-bold">{blog.heading}</p>
                 </Link>
                 <div className="blog-box-category d-flex flex-wrap align-items-center justify-content-between">
@@ -95,7 +95,7 @@ function MediaBlogs() {
                 <div className="col-md-6 inside-blogBox" key={blog.slugurl}>
                   <div className="inner h-100">
                     <div className="img-fluid">
-                      <Link to={`/sayahomes-react/blog-details/${blog.slugurl}`}>
+                      <Link to={`/blog-details/${blog.slugurl}`}>
                         <img
                           src={`https://www.sayahomes.com/uploads/blog-images/${blog.image}`}
                           alt={blog.heading}

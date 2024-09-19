@@ -72,13 +72,13 @@ function Footer() {
                                 <div className="insideBox">
                                     <h6 className="smallHeading text-serif text-orange">About Us</h6>
                                     <ul className="list-inline">
-                                        <li><Link to='/sayahomes-react/about-us'>Overview</Link></li>
-                                        <li><Link to='/sayahomes-react/about-us'>Vision & Mission</Link></li>
-                                        <li><Link to='/sayahomes-react/about-us'>Meet our Founder</Link></li>
-                                        <li><Link to='/sayahomes-react/about-us'>Awards & Recognition</Link></li>
-                                        <li><Link to='/sayahomes-react/about-us'>Customer Relationship</Link></li>
-                                        <li><Link to='/sayahomes-react/about-us'>Partnerships</Link></li>
-                                        <li><Link to='/sayahomes-react/about-us'>Appreciation Letter</Link></li>
+                                        <li><Link to='/about-us'>Overview</Link></li>
+                                        <li><Link to='/about-us'>Vision & Mission</Link></li>
+                                        <li><Link to='/about-us'>Meet our Founder</Link></li>
+                                        <li><Link to='/about-us'>Awards & Recognition</Link></li>
+                                        <li><Link to='/about-us'>Customer Relationship</Link></li>
+                                        <li><Link to='/about-us'>Partnerships</Link></li>
+                                        <li><Link to='/about-us'>Appreciation Letter</Link></li>
                                     </ul>
                                 </div>
                             </div>
@@ -86,8 +86,8 @@ function Footer() {
                                 <div className="insideBox">
                                     <h6 className="smallHeading text-serif text-orange">Projects</h6>
                                     <ul className="list-inline">
-                                        <li><Link to='/sayahomes-react/residential'>Residential</Link></li>
-                                        <li><Link to='/sayahomes-react/commericial'>Commercial</Link></li>
+                                        <li><Link to='/residential'>Residential</Link></li>
+                                        <li><Link to='/commercial'>Commercial</Link></li>
                                     </ul>
                                 </div>
                             </div>
@@ -95,11 +95,11 @@ function Footer() {
                                 <div className="insideBox">
                                     <h6 className="smallHeading text-serif text-orange">Quick Links</h6>
                                     <ul className="list-inline">
-                                        <li><Link to='/sayahomes-react/in-the-media'>Media</Link></li>
-                                        <li><Link to='/sayahomes-react/events'>Events</Link></li>
-                                        <li><Link to='/sayahomes-react/media-blogs'>Blogs</Link></li>
-                                        <li><Link to='/sayahomes-react/customer-supports'>Customer Support</Link></li>
-                                        <li><Link to='/sayahomes-react/contact-us'>Contact Us</Link></li>
+                                        <li><Link to='/in-the-media'>Media</Link></li>
+                                        <li><Link to='/events'>Events</Link></li>
+                                        <li><Link to='/blogs'>Blogs</Link></li>
+                                        <li><Link to='/customer-supports'>Customer Support</Link></li>
+                                        <li><Link to='/contact-us'>Contact Us</Link></li>
                                     </ul>
                                 </div>
                             </div>
@@ -107,8 +107,8 @@ function Footer() {
                                 <div className="insideBox">
                                     <h6 className="smallHeading text-serif text-orange">Career</h6>
                                     <ul className="list-inline">
-                                        <li><Link to='/sayahomes-react/careers'>Current Openings</Link></li>
-                                        <li><Link to='/sayahomes-react/careers'>Apply Now</Link></li>
+                                        <li><Link to='/careers'>Current Openings</Link></li>
+                                        <li><Link to='/careers'>Apply Now</Link></li>
                                     </ul>
                                 </div>
                             </div>
@@ -119,7 +119,7 @@ function Footer() {
                     <div className="container-lg">
                         <div className="d-flex">
                             <a href="#">Disclaimer</a>
-                            <a href="#">Privacy Policy</a>
+                            <Link to="/privacy-policy">Privacy Policy</Link>
                             <a href="#">Terms & Conditions</a>
                         </div>
                         <div className="copyrights">

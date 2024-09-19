@@ -37,7 +37,7 @@ function CustomerSupports() {
     const dataToSend = { ...formData, created: formattedDate };
     
     try {
-      const response = await axios.post('http://localhost:8080/customerSupport/upload', dataToSend);
+      const response = await axios.post('https://ecis.in/apis/sayahomes/customerSupport/upload', dataToSend);
       console.log('Form submitted successfully:', response.data);
       setSuccessMessage('Your request has been submitted successfully!'); // Set success message
 

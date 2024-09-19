@@ -16,7 +16,7 @@ function Blogs() {
 
       const fetchBlogs = async () => {
         try {
-          const result = await axios.get('http://localhost:8080/blog/get');
+          const result = await axios.get('https://ecis.in/apis/sayahomes/blog/get');
           setBlogs(result.data); // Assuming the API returns blog data
           console.log(result.data);
         } catch (error) {
@@ -37,7 +37,7 @@ function Blogs() {
               <div className="swiper-wrapper">
                 {blogs.map((blog) => (
                   <div className="swiper-slide newsBox blogBox" key={blog.id}>
-                    <Link to={`/sayahomes-react/blog-details/${blog.slugurl}`} className="inner h-100">
+                    <Link to={`/blog-details/${blog.slugurl}`} className="inner h-100">
                       <div className="img-fluid">
                         <img
                           src={`https://www.sayahomes.com/uploads/blog-images/${blog.image}`}
@@ -62,7 +62,7 @@ function Blogs() {
               <div className="bottomControls">
                 <div className="swiper-button-prev solid"></div>
                 <div className="viewmore">
-                  <Link to="/sayahomes-react/media-blogs" className="button stroke">
+                  <Link to="/blogs" className="button stroke">
                     View All Blogs
                   </Link>
                 </div>
