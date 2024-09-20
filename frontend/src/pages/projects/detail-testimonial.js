@@ -19,55 +19,55 @@ export default function DetailTestimonial(){
     const testimonials = [
         {
           text: "At first, I did not believe my husband. But then he gave me the keys to our new home.",
-          image: "https://ecis.in/sayahomes-react/assets/images/testimonials1.jpg",
+          image: "https://sayahomes.com/assets/images/testimonials1.jpg",
           alt: "Satisfied Invest/ CP",
           name: "Mrs. Neeru Rathi (W/O Mr. Sunil Rathi)",
         },
         {
           text: "The beautiful workmanship of the home pleases my wife and kids and the well-maintained gardens and lawns are great for our parents. I am living a dream.",
-          image: "https://ecis.in/sayahomes-react/assets/images/testimonials2.jpg",
+          image: "https://sayahomes.com/assets/images/testimonials2.jpg",
           alt: "Satisfied Invest/ CP",
           name: "Mr. Mishra",
         },
         {
           text: "My mother feels cared for.",
-          image: "https://ecis.in/sayahomes-react/assets/images/testimonials3.jpg",
+          image: "https://sayahomes.com/assets/images/testimonials3.jpg",
           alt: "Satisfied Invest/ CP",
           name: "Mr. Dhananjay Verma",
         },
         {
           text: "We love the fact that our home is in close proximity to the metro station.",
-          image: "https://ecis.in/sayahomes-react/assets/images/testimonials4.jpg",
+          image: "https://sayahomes.com/assets/images/testimonials4.jpg",
           alt: "Satisfied Invest/ CP",
           name: "Mrs. and Mr. Yadav",
         },
         {
           text: "From 2018, our weekend plans will be easier to execute. All thanks to Saya Homes.",
-          image: "https://ecis.in/sayahomes-react/assets/images/testimonials5.jpg",
+          image: "https://sayahomes.com/assets/images/testimonials5.jpg",
           alt: "Satisfied Invest/ CP",
           name: "Mrs. and Mr. Singh",
         },
         {
           text: "With a two-level parking space available to us, we don't have to fret about finding a spot anymore.",
-          image: "https://ecis.in/sayahomes-react/assets/images/testimonials6.jpg",
+          image: "https://sayahomes.com/assets/images/testimonials6.jpg",
           alt: "Satisfied Invest/ CP",
           name: "Mrs. and Mr. Das",
         },
         {
           text: "The security system ensures that our home and our neighbourhood remains a safe place for everyone.",
-          image: "https://ecis.in/sayahomes-react/assets/images/testimonials7.jpg",
+          image: "https://sayahomes.com/assets/images/testimonials7.jpg",
           alt: "Satisfied Invest/ CP",
           name: "Mrs. and Mr. Gupta",
         },
         {
           text: "With malls and restaurants close to our home, our weekends are filled with happiness.",
-          image: "https://ecis.in/sayahomes-react/assets/images/testimonials8.jpg",
+          image: "https://sayahomes.com/assets/images/testimonials8.jpg",
           alt: "Satisfied Invest/ CP",
           name: "Mr. Alok Jain",
         },
         {
           text: "We don't always need the AC to cool us down. We just take a walk inside our complex. The air is fresh and cool.",
-          image: "https://ecis.in/sayahomes-react/assets/images/testimonials9.jpg",
+          image: "https://sayahomes.com/assets/images/testimonials9.jpg",
           alt: "Satisfied Invest/ CP",
           name: "Mr. and Mrs. Khanna",
         },
@@ -76,49 +76,49 @@ export default function DetailTestimonial(){
       const testimonialsVideo = [
         {
           src: 'https://www.youtube.com/embed/PRgoLcERlOQ?rel=0&amp;autoplay=1',
-          img: 'https://ecis.in/sayahomes-react/assets/images/PRgoLcERlOQ.jpg',
+          img: 'https://sayahomes.com/assets/images/PRgoLcERlOQ.jpg',
           title: 'Saya SouthX - Unrivalled Destination Unforgettable Experiences',
           name: 'Mr Pradeep Rawat',
         },
         {
           src: 'https://www.youtube.com/embed/MFdoV42c7Bk?rel=0&amp;autoplay=1',
-          img: 'https://ecis.in/sayahomes-react/assets/images/MFdoV42c7Bk.jpg',
+          img: 'https://sayahomes.com/assets/images/MFdoV42c7Bk.jpg',
           title: 'Saya SouthX: Unrivalled Destination Unforgettable Experiences, Must Invest to get Best Return',
           name: 'Mr Vishal Bhardwaj',
         },
         {
           src: 'https://www.youtube.com/embed/M5_9_4AppSg?rel=0&amp;autoplay=1',
-          img: 'https://ecis.in/sayahomes-react/assets/images/testim-gold-indrapuram.jpg',
+          img: 'https://sayahomes.com/assets/images/testim-gold-indrapuram.jpg',
           title: 'Owns a property in Saya Gold Avenue',
           name: 'Mr Prakash Ranawat',
         },
         {
           src: 'videos/Happy-Residents-GoldAvenue-4.mp4',
-          img: 'https://ecis.in/sayahomes-react/assets/images/Video-4_1.jpg',
+          img: 'https://sayahomes.com/assets/images/Video-4_1.jpg',
           title: 'Owns a property in Saya Gold Avenue',
           name: 'Saya SouthX - Unrivalled Destination Unforgettable Experiences',
         },
         {
           src: 'videos/customers3.mp4',
-          img: 'https://ecis.in/sayahomes-react/assets/images/home3_1.avif',
+          img: 'https://sayahomes.com/assets/images/home3_1.avif',
           title: 'Owns a property in Saya Gold Avenue',
           name: 'Mr Vikash',
         },
         {
           src: 'videos/The-best-in-Delhi-NCR.mp4',
-          img: 'https://ecis.in/sayahomes-react/assets/images/Video-1.avif',
+          img: 'https://sayahomes.com/assets/images/Video-1.avif',
           title: 'Saya SouthX - Unrivalled Destination Unforgettable Experiences',
           name: 'Mr Vajay',
         },
         {
           src: 'videos/Real-Estate-reviews-Gold-Avenue.mp4',
-          img: 'https://ecis.in/sayahomes-react/assets/images/Video-2.avif',
+          img: 'https://sayahomes.com/assets/images/Video-2.avif',
           title: 'Saya SouthX - Unrivalled Destination Unforgettable Experiences',
           name: 'Mr Manoj',
         },
         {
           src: 'videos/Happy-Residents-GoldAvenue.mp4',
-          img: 'https://ecis.in/sayahomes-react/assets/images/Video-3_1.avif',
+          img: 'https://sayahomes.com/assets/images/Video-3_1.avif',
           title: 'Saya SouthX - Unrivalled Destination Unforgettable Experiences',
           name: 'Mr Anil',
         },
@@ -138,7 +138,7 @@ export default function DetailTestimonial(){
                 <div class="breadcrumbContainer">
                     <div class="container-lg">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><Link to='/home'>Home</Link></li>
+                            <li class="breadcrumb-item"><Link to='/'>Home</Link></li>
                             <li class="breadcrumb-item active" aria-current="page">Testimonials</li>
                         </ol>
                     </div>

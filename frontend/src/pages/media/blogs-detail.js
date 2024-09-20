@@ -34,10 +34,10 @@ export default function BlogsDetail() {
         <div className="container-lg">
           <ol className="breadcrumb">
             <li className="breadcrumb-item">
-              <a href="https://www.sayahomes.com">Home</a>
+              <Link to="/">Home</Link>
             </li>
             <li className="breadcrumb-item">
-              <Link to="/sayahomes-react/media-blogs">Blogs</Link>
+              <Link to="/blogs">Blogs</Link>
             </li>
             <li className="breadcrumb-item active" aria-current="page">
               {blog.heading} {/* Assuming the blog object has a title */}

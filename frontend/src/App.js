@@ -4,7 +4,7 @@ import './css/jquery.magnify.css';
 import './css/swiper-bundle.min.css';
 import './css/custom5.beta2.css';
 import './css/responsive.css';
-import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './pages/home';
 import AboutUs from './pages/about-us';
 import Residentials from './pages/projects/residentials';
@@ -33,12 +33,11 @@ import PrivacyPolicy from './pages/projects/privacy-policy';
 
 function App() {
   return (
-    <div className="App" basename='/'>
-      <Router>
+    <div className="App">
+      <Router basename='/'>
         <ScrollToTop />
         <Routes>
-          <Route path="/" element={<Navigate to="/home" />} />
-          <Route path="/home" element={<Home />} />
+          <Route path="/" element={<Home />} /> {/* Main homepage route */}
           <Route path="/about-us" element={<AboutUs />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/residential" element={<Residentials />} />

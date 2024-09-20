@@ -17,7 +17,7 @@ function Commercial() {
                 <div className="breadcrumbContainer">
                     <div className="container-lg">
                         <ol className="breadcrumb">
-                            <li className="breadcrumb-item"><Link to='/home'>Home</Link></li>
+                            <li className="breadcrumb-item"><Link to='/'>Home</Link></li>
                             <li className="breadcrumb-item active" aria-current="page">Commercial</li>
                         </ol>
                     </div>
@@ -27,7 +27,7 @@ function Commercial() {
                         <div className="row gap-row">
                             <div className="col-md-4 col-sm-6 hm-featured">
                                 <Link to='/saya-southX' className="inner">
-                                    <div className="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/saya-south-x-th.jpg" alt="Saya South X" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
+                                    <div className="img-fluid"><img src="https://sayahomes.com/assets/images/saya-south-x-th.jpg" alt="Saya South X" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
                                     <div className="text">
                                         <span className="line"></span>
                                         <div className="projectBoxName">
@@ -43,7 +43,7 @@ function Commercial() {
                             </div>
                             <div className="col-md-4 col-sm-6 hm-featured">
                                 <Link to='/saya-biztop' className="inner">
-                                    <div className="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/biztop-th.jpg" alt="Biztop" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
+                                    <div className="img-fluid"><img src="https://sayahomes.com/assets/images/biztop-th.jpg" alt="Biztop" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
                                     <div className="text">
                                         <span className="line"></span>
                                         <div className="projectBoxName">
@@ -59,7 +59,7 @@ function Commercial() {
                             </div>
                             <div className="col-md-4 col-sm-6 hm-featured">
                                 <Link to='/saya-piazza' className="inner">
-                                    <div className="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/saya-piazza.jpg" alt="Saya Piazza" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
+                                    <div className="img-fluid"><img src="https://sayahomes.com/assets/images/saya-piazza.jpg" alt="Saya Piazza" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
                                     <div className="text">
                                         <span className="line"></span>
                                         <div className="projectBoxName">
@@ -76,7 +76,7 @@ function Commercial() {
                         </div>
                     </div>
                 </div>
-                <div className="logo-icon"><img src="https://ecis.in/sayahomes-react/assets/images/logo-icon.svg" alt="Saya Homes" /></div>
+                <div className="logo-icon"><img src="https://sayahomes.com/assets/images/logo-icon.svg" alt="Saya Homes" /></div>
             </div>
             <FooterAll />
         </div>

@@ -16,7 +16,7 @@ export default function PrivacyPolicy(){
                 <div class="breadcrumbContainer">
                     <div class="container-lg">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><Link to='/home'>Home</Link></li>
+                            <li class="breadcrumb-item"><Link to='/'>Home</Link></li>
                             <li class="breadcrumb-item active" aria-current="page">Privacy Policy</li>
                         </ol>
                     </div>

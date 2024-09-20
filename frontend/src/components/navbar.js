@@ -53,7 +53,7 @@ function Navbar() {
             <div className={`header ${menuOpen ? 'notfixed' : ''} ${isFixed ? 'fixed' : ''}`}>
                 <div className="container-lg mainHeader">
                     <div className="logo">
-                        <Link to='/home'><img src="https://ecis.in/sayahomes-react/assets/images/logo5.svg" alt="Saya Homes" /></Link>
+                        <Link to='/'><img src="https://sayahomes.com/assets/images/logo5.svg" alt="Saya Homes" /></Link>
                     </div>
                     <div className="readmore mt-0 w-auto">
                         <button
@@ -71,7 +71,7 @@ function Navbar() {
             <div className={`mbMenuContainer ${menuOpen ? 'active' : ''} ${closing ? 'closing' : ''}`} style={{ display: menuOpen || closing ? 'block' : 'none' }}>
                 <div className="mbMenu scroller">
                     <ul className="list-inline">
-                        <li><Link to="/home">Home</Link></li>
+                        <li><a href="/">Home</a></li>
                         <li className={`hasChild ${activeDropdown === 0 ? 'active' : ''}`}>
                             <a href="javascript:;" onClick={() => toggleDropdown(0)}>About Us <i className="fa fa-plus"></i></a>
                             <div className="dropdown" style={{ display: activeDropdown === 0 ? 'block' : 'none' }}>
@@ -91,7 +91,7 @@ function Navbar() {
                             <div className="dropdown" style={{ display: activeDropdown === 1 ? 'block' : 'none' }}>
                                 <ul className="list-inline">
                                     <li><Link to='/residential' onClick={handleMenuItemClick}>Residential</Link></li>
-                                    <li><Link to='/commericial' onClick={handleMenuItemClick}>Commercial</Link></li>
+                                    <li><Link to='/commercial' onClick={handleMenuItemClick}>Commercial</Link></li>
                                 </ul>
                             </div>
                         </li>
@@ -101,7 +101,7 @@ function Navbar() {
                                 <ul className="list-inline">
                                     <li><Link to='/in-the-media' onClick={handleMenuItemClick}>In the Media</Link></li>
                                     <li><Link to ='/events' onClick={handleMenuItemClick}>Events</Link></li>
-                                    <li><Link to ='/media-blogs' onClick={handleMenuItemClick}>Blogs</Link></li>
+                                    <li><Link to ='/blogs' onClick={handleMenuItemClick}>Blogs</Link></li>
                                 </ul>
                             </div>
                         </li>

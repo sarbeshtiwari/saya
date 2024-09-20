@@ -56,13 +56,13 @@ function Home() {
       <div className="banner w-100 scrollto">
         <video
           ref={videoRef}
-          src="https://ecis.in/sayahomes-react/assets/images/videos/banner2724.mp4"
+          src="https://sayahomes.com/assets/images/videos/banner2724.mp4"
           preload="auto"
           autoPlay
           loop
           muted
           playsInline
-          poster="https://ecis.in/sayahomes-react/assets/images/sayamainvideo.jpg"
+          poster="https://sayahomes.com/assets/images/sayamainvideo.jpg"
           className="banner-video h-100 object-cover"
           onLoadedData={handleVideoLoad}
         ></video>

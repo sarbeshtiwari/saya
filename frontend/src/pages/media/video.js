@@ -34,7 +34,7 @@ const Videos = () => {
                   onClick={() => handleShowModal('Saya South X Excavation', 'https://www.youtube.com/embed/2UizL7qOAAg?rel=0&amp;autoplay=1')}
                 >
                   <div className="img-fluid mt-0 position-relative">
-                    <img src="https://ecis.in/sayahomes-react/assets/images/videos/2UizL7qOAAg.jpg" alt="Saya Homes" className="h-100 object-cover" title />
+                    <img src="https://sayahomes.com/assets/images/videos/2UizL7qOAAg.jpg" alt="Saya Homes" className="h-100 object-cover" title />
                     <button className="playBtn"><i className="fa fa-play"></i></button>
                   </div>
                   <article>
@@ -53,7 +53,7 @@ const Videos = () => {
                   onClick={() => handleShowModal('Saya South X Excavation', 'https://www.youtube.com/embed/OZYRK4miByE?rel=0&amp;autoplay=1')}
                 >
                   <div className="img-fluid mt-0 position-relative">
-                    <img src="https://ecis.in/sayahomes-react/assets/images/videos/OZYRK4miByE.jpg" alt="Saya Homes" className="h-100 object-cover" title />
+                    <img src="https://sayahomes.com/assets/images/videos/OZYRK4miByE.jpg" alt="Saya Homes" className="h-100 object-cover" title />
                     <button className="playBtn"><i className="fa fa-play"></i></button>
                   </div>
                   <article>
@@ -72,7 +72,7 @@ const Videos = () => {
                   onClick={() => handleShowModal('Saya South X | Construction Update | February 2020', 'https://www.youtube.com/embed/3qompf7MOfw?rel=0&amp;autoplay=1')}
                 >
                   <div className="img-fluid mt-0 position-relative">
-                    <img src="https://ecis.in/sayahomes-react/assets/images/videos/3qompf7MOfw.jpg" alt="Saya Homes" className="h-100 object-cover" title />
+                    <img src="https://sayahomes.com/assets/images/videos/3qompf7MOfw.jpg" alt="Saya Homes" className="h-100 object-cover" title />
                     <button className="playBtn"><i className="fa fa-play"></i></button>
                   </div>
                   <article>
@@ -91,7 +91,7 @@ const Videos = () => {
                   onClick={() => handleShowModal('Saya Homes covered by Aaj Tak', 'https://www.youtube.com/embed/3XtTjFXamCY?rel=0&amp;autoplay=1')}
                 >
                   <div className="img-fluid mt-0 position-relative">
-                    <img src="https://ecis.in/sayahomes-react/assets/images/videos/3XtTjFXamCY.jpg" alt="Saya Homes" className="h-100 object-cover" title />
+                    <img src="https://sayahomes.com/assets/images/videos/3XtTjFXamCY.jpg" alt="Saya Homes" className="h-100 object-cover" title />
                     <button className="playBtn"><i className="fa fa-play"></i></button>
                   </div>
                   <article>
@@ -111,7 +111,7 @@ const Videos = () => {
                 >
 
                   <div className="img-fluid mt-0 position-relative">
-                    <img src="https://ecis.in/sayahomes-react/assets/images/videos/eECgQeykbI0.jpg" alt="Saya Homes" className="h-100 object-cover" title />
+                    <img src="https://sayahomes.com/assets/images/videos/eECgQeykbI0.jpg" alt="Saya Homes" className="h-100 object-cover" title />
                     <button className="playBtn"><i className="fa fa-play"></i></button>
                   </div>
                   <article>
@@ -131,7 +131,7 @@ const Videos = () => {
                 >
 
                   <div className="img-fluid mt-0 position-relative">
-                    <img src="https://ecis.in/sayahomes-react/assets/images/videos/9p8K6uVDjjg.jpg" alt="Saya Homes" className="h-100 object-cover" title />
+                    <img src="https://sayahomes.com/assets/images/videos/9p8K6uVDjjg.jpg" alt="Saya Homes" className="h-100 object-cover" title />
                     <button className="playBtn"><i className="fa fa-play"></i></button>
                   </div>
                   <article>
@@ -151,7 +151,7 @@ const Videos = () => {
                 >
 
                   <div className="img-fluid mt-0 position-relative">
-                    <img src="https://ecis.in/sayahomes-react/assets/images/videos/i5bc2lfSP8U.jpg" alt="Saya Homes" className="h-100 object-cover" title />
+                    <img src="https://sayahomes.com/assets/images/videos/i5bc2lfSP8U.jpg" alt="Saya Homes" className="h-100 object-cover" title />
                     <button className="playBtn"><i className="fa fa-play"></i></button>
                   </div>
                   <article>
@@ -171,7 +171,7 @@ const Videos = () => {
                 >
 
                   <div className="img-fluid mt-0 position-relative">
-                    <img src="https://ecis.in/sayahomes-react/assets/images/videos/shgjMCyUE-g.jpg" alt="Saya Homes" className="h-100 object-cover" title />
+                    <img src="https://sayahomes.com/assets/images/videos/shgjMCyUE-g.jpg" alt="Saya Homes" className="h-100 object-cover" title />
                     <button className="playBtn"><i className="fa fa-play"></i></button>
                   </div>
                   <article>
@@ -191,7 +191,7 @@ const Videos = () => {
                 >
 
                   <div className="img-fluid mt-0 position-relative">
-                    <img src="https://ecis.in/sayahomes-react/assets/images/videos/PUnkpUcN6yk.jpg" alt="Saya Homes" className="h-100 object-cover" title />
+                    <img src="https://sayahomes.com/assets/images/videos/PUnkpUcN6yk.jpg" alt="Saya Homes" className="h-100 object-cover" title />
                     <button className="playBtn"><i className="fa fa-play"></i></button>
                   </div>
                   <article>

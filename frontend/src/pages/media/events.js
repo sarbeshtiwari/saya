@@ -448,7 +448,7 @@ function Events() {
             <div className="breadcrumbContainer">
                 <div className="container-lg">
                     <ol className="breadcrumb">
-                        <li className="breadcrumb-item"><a href="/">Home</a></li>
+                        <li className="breadcrumb-item"><Link to="/">Home</Link></li>
                         <li className="breadcrumb-item active" aria-current="page">Events</li>
                     </ol>
                 </div>
@@ -471,8 +471,11 @@ function Events() {
                                         <article>
                                             <h5 className="news-title mt-4">{event.ev_title}</h5>
                                             <div className="date justify-content-between">
-                                                <small>{new Date(event.ev_created).toLocaleDateString()}</small> {/* Format date as needed */}
-                                            </div>
+                                            <small>
+                                                {new Date(event.ev_date).toLocaleDateString('en-US', { day: 'numeric', month: 'long', year: 'numeric' })}
+                                            </small>
+                                        </div>
+
                                         </article>
                                     </Link>
                                 </div>

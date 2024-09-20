@@ -45,9 +45,9 @@ function EventDetail() {
             <div className="breadcrumbContainer">
                 <div className="container-lg">
                     <ol className="breadcrumb">
-                        <li className="breadcrumb-item"><a href="/">Home</a></li>
+                        <li className="breadcrumb-item"><Link to="/">Home</Link></li>
                         <li className="breadcrumb-item">
-                            <Link to="/sayahomes-react/events">Events</Link>
+                            <Link to="/events">Events</Link>
                         </li>
                         <li className="breadcrumb-item active" aria-current="page">
                             {title}

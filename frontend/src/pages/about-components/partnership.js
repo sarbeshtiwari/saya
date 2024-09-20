@@ -80,20 +80,20 @@ function Partnership() {
                             <div class="col-lg-7">
                                 <div class="swiper brand-slider">
                                     <div class="swiper-wrapper">
-                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/partners/Axis-bank.svg" class="w-100" /></div></div>
-                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/partners/Hdfc-ltd.svg" class="w-100" /></div></div>
-                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/partners/Pnb-housing-finance.svg" class="w-100" /></div></div>
-                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/partners/Icici-bank-ltd.svg" class="w-100" /></div></div>
-                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/partners/Aditya-Birla-housing-Finanacer-ltd.svg" class="w-100" /></div></div>
-                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/partners/Yes-bank-ltd.svg" class="w-100" /></div></div>
-                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/partners/Indiabulls-housing.svg" class="w-100" /></div></div>
-                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/partners/Piramal-housing.svg" class="w-100" /></div></div>
-                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/partners/Union-bank.svg" class="w-100" /></div></div>
-                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/partners/Bank-of-maharashtra.svg" class="w-100" /></div></div>
-                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/partners/Indian-bank.svg" class="w-100" /></div></div>
-                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/partners/Bank-of-india.svg" class="w-100" /></div></div>
-                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/partners/Fedral-bank.svg" class="w-100" /></div></div>
-                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/partners/Central-bank-of-india.svg" class="w-100" /></div></div>
+                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://sayahomes.com/assets/images/partners/Axis-bank.svg" class="w-100" /></div></div>
+                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://sayahomes.com/assets/images/partners/Hdfc-ltd.svg" class="w-100" /></div></div>
+                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://sayahomes.com/assets/images/partners/Pnb-housing-finance.svg" class="w-100" /></div></div>
+                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://sayahomes.com/assets/images/partners/Icici-bank-ltd.svg" class="w-100" /></div></div>
+                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://sayahomes.com/assets/images/partners/Aditya-Birla-housing-Finanacer-ltd.svg" class="w-100" /></div></div>
+                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://sayahomes.com/assets/images/partners/Yes-bank-ltd.svg" class="w-100" /></div></div>
+                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://sayahomes.com/assets/images/partners/Indiabulls-housing.svg" class="w-100" /></div></div>
+                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://sayahomes.com/assets/images/partners/Piramal-housing.svg" class="w-100" /></div></div>
+                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://sayahomes.com/assets/images/partners/Union-bank.svg" class="w-100" /></div></div>
+                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://sayahomes.com/assets/images/partners/Bank-of-maharashtra.svg" class="w-100" /></div></div>
+                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://sayahomes.com/assets/images/partners/Indian-bank.svg" class="w-100" /></div></div>
+                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://sayahomes.com/assets/images/partners/Bank-of-india.svg" class="w-100" /></div></div>
+                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://sayahomes.com/assets/images/partners/Fedral-bank.svg" class="w-100" /></div></div>
+                                        <div class="swiper-slide brandLogo"><div class="img-fluid"><img src="https://sayahomes.com/assets/images/partners/Central-bank-of-india.svg" class="w-100" /></div></div>
                                     </div>
                                     <div class="swiper-button-prev solid"></div>
                                     <div class="swiper-button-next solid"></div>
@@ -111,10 +111,10 @@ function Partnership() {
                             <div class="col-lg-7 col-md-6">
                                 <div class>
                                     <div class="form-row gap-form-row">
-                                        <div class="col-md-3 brandLogo"><div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/partners/Amar-Ujala.png" class="w-100" /></div></div>
-                                        <div class="col-md-3 brandLogo"><div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/partners/Dainik-Jagran.png" class="w-100" /></div></div>
-                                        <div class="col-md-3 brandLogo"><div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/partners/HT-Media.png" class="w-100" /></div></div>
-                                        <div class="col-md-3 brandLogo"><div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/partners/THE-TIMES-OF-INDIA.png" class="w-100" /></div></div>
+                                        <div class="col-md-3 brandLogo"><div class="img-fluid"><img src="https://sayahomes.com/assets/images/partners/Amar-Ujala.png" class="w-100" /></div></div>
+                                        <div class="col-md-3 brandLogo"><div class="img-fluid"><img src="https://sayahomes.com/assets/images/partners/Dainik-Jagran.png" class="w-100" /></div></div>
+                                        <div class="col-md-3 brandLogo"><div class="img-fluid"><img src="https://sayahomes.com/assets/images/partners/HT-Media.png" class="w-100" /></div></div>
+                                        <div class="col-md-3 brandLogo"><div class="img-fluid"><img src="https://sayahomes.com/assets/images/partners/THE-TIMES-OF-INDIA.png" class="w-100" /></div></div>
                                     </div>
                                 </div>
                             </div>

@@ -17,7 +17,7 @@ function Overview() {
                             </div>
                         </div>
                         <div className="col-lg-5 hm-overview-img">
-                            <img src="https://ecis.in/sayahomes-react/assets/images/overview-img2.webp" alt='' />
+                            <img src="https://sayahomes.com/assets/images/overview-img2.webp" alt='' />
                         </div>
                     </div>
                     <div className="row gap-row">
@@ -48,7 +48,7 @@ function Overview() {
                     </div>
                 </div>
             </div>
-            <div className="logo-icon"><img src="https://ecis.in/sayahomes-react/assets/images/logo-icon.svg" alt="Saya Homes" /></div>
+            <div className="logo-icon"><img src="https://sayahomes.com/assets/images/logo-icon.svg" alt="Saya Homes" /></div>
         </div>
     );
 }

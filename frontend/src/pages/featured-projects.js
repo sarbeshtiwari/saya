@@ -41,7 +41,7 @@ function FeaturedProjects() {
                     <div className="swiper-wrapper">
                         <div className="swiper-slide hm-featured">
                             <Link to ='/saya-gold-avenue' className="inner">
-                                <div className="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/saya-gold-th.jpg" alt="Saya Gold Avenue" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
+                                <div className="img-fluid"><img src="https://sayahomes.com/assets/images/saya-gold-th.jpg" alt="Saya Gold Avenue" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
                                 <div className="text">
                                     <span className="line"></span>
                                     <div className="projectBoxName">
@@ -56,7 +56,7 @@ function FeaturedProjects() {
                         </div>
                         <div className="swiper-slide hm-featured">
                             <Link to='/saya-southX' className="inner">
-                                <div className="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/saya-south-x-th.jpg" alt="Saya South X" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
+                                <div className="img-fluid"><img src="https://sayahomes.com/assets/images/saya-south-x-th.jpg" alt="Saya South X" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
                                 <div className="text">
                                     <span className="line"></span>
                                     <div className="projectBoxName">
@@ -71,7 +71,7 @@ function FeaturedProjects() {
                         </div>
                         <div className="swiper-slide hm-featured">
                             <Link to='/saya-piazza' className="inner">
-                                <div className="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/saya-piazza-th.jpg" alt="Saya Piazza" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
+                                <div className="img-fluid"><img src="https://sayahomes.com/assets/images/saya-piazza-th.jpg" alt="Saya Piazza" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
                                 <div className="text">
                                     <span className="line"></span>
                                     <div className="projectBoxName">
@@ -86,7 +86,7 @@ function FeaturedProjects() {
                         </div>
                         <div className="swiper-slide hm-featured">
                             <Link to='/saya-zion' className="inner">
-                                <div className="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/saya-zion.jpg" alt="Saya Zion" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
+                                <div className="img-fluid"><img src="https://sayahomes.com/assets/images/saya-zion.jpg" alt="Saya Zion" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
                                 <div className="text">
                                     <span className="line"></span>
                                     <div className="projectBoxName">
@@ -101,7 +101,7 @@ function FeaturedProjects() {
                         </div>
                         <div className="swiper-slide hm-featured">
                             <Link to='/saya-zenith' className="inner">
-                                <div className="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/saya-zenith.jpg" alt="Saya Zenith" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
+                                <div className="img-fluid"><img src="https://sayahomes.com/assets/images/saya-zenith.jpg" alt="Saya Zenith" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
                                 <div className="text">
                                     <span className="line"></span>
                                     <div className="projectBoxName">
@@ -116,7 +116,7 @@ function FeaturedProjects() {
                         </div>
                         <div className="swiper-slide hm-featured">
                             <Link to='/saya-desire-residency' className="inner">
-                                <div className="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/saya-desire-residency.jpg" alt="Saya Desire Residency" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
+                                <div className="img-fluid"><img src="https://sayahomes.com/assets/images/saya-desire-residency.jpg" alt="Saya Desire Residency" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
                                 <div className="text">
                                     <span className="line"></span>
                                     <div className="projectBoxName">

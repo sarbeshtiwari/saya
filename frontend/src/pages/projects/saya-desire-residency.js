@@ -133,17 +133,17 @@ function SayaDesireResidency() {
         <div>
             <Navbar />
             <div class="insideBanner w-100">
-                <img src="https://ecis.in/sayahomes-react/assets/images/desire-banner.jpg" class="h-100 object-cover" />
+                <img src="https://sayahomes.com/assets/images/desire-banner.jpg" class="h-100 object-cover" />
                 <div class="project-bannerBox container-lg">
-                    <div class="pageLogo"><img src="https://ecis.in/sayahomes-react/assets/images/desire-logo.svg" alt="Saya Desire Residency" /><p>J9WJ+9RX, Indirapuram, Ahinsa Khand 2, Indirapuram, Ghaziabad</p></div>
+                    <div class="pageLogo"><img src="https://sayahomes.com/assets/images/desire-logo.svg" alt="Saya Desire Residency" /><p>J9WJ+9RX, Indirapuram, Ahinsa Khand 2, Indirapuram, Ghaziabad</p></div>
                     <ul class="list-inline unitsBtn">
 
                         <li class="bottomTranslate translate "><section>
-                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/tower.png" alt="Saya Desire Residency" /></div>
+                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/tower.png" alt="Saya Desire Residency" /></div>
                             <p><small>BHK</small><span>2/3/4</span></p>
                         </section></li>
                         <li class="bottomTranslate translate "><section>
-                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/area.png" alt="Saya Desire Residency" /></div>
+                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/area.png" alt="Saya Desire Residency" /></div>
                             <p><small>Project Area</small><span>-</span></p>
                         </section></li>
                     </ul>
@@ -154,7 +154,7 @@ function SayaDesireResidency() {
                 <div class="container-lg">
                     <div class="pageMenuBtn"><small></small></div>
                     <ul class="list-inline">
-                        <li class="topTranslate "><Link to='/sayahomes-react'><i class="fa fa-home"></i></Link></li>
+                        <li class="topTranslate "><Link to='/'><i class="fa fa-home"></i></Link></li>
                         <li class="topTranslate "><a href="#overview">Overview</a></li>
                         <li class="topTranslate "><a href="#amenities">Amenities</a></li>
                         <li class="topTranslate "><a href="#specifications">Specifications</a></li>
@@ -168,14 +168,14 @@ function SayaDesireResidency() {
             <div class="breadcrumbContainer">
                 <div class="container-lg">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><Link to='/sayahomes-react'>Home</Link></li>
+                        <li class="breadcrumb-item"><Link to='/'>Home</Link></li>
                         <li class="breadcrumb-item active" aria-current="page">Saya Desire Residency</li>
                     </ol>
                 </div>
             </div>
             <section class="w-100">
                 <a name="overview"></a>
-                <div id="overview" class="w-100 padding position-relative lightBg scrollto overviewBg" style={{ backgroundImage: "url(https://ecis.in/sayahomes-react/assets/images/saya-desire-residency/gallery/desire-banner-big1.jpg)" }}>
+                <div id="overview" class="w-100 padding position-relative lightBg scrollto overviewBg" style={{ backgroundImage: "url(https://sayahomes.com/assets/images/saya-desire-residency/gallery/desire-banner-big1.jpg)" }}>
                     <div class="container-lg">
                         <div class="row">
 
@@ -188,13 +188,13 @@ function SayaDesireResidency() {
                                 <ul class="list-inline unitsBtn overview-unitsBtn bottomTranslate translate doneTranslate">
                                     <li class="bottomTranslate translate ">
                                         <section>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/unit.png" alt="Saya Desire Residency" /></div>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/unit.png" alt="Saya Desire Residency" /></div>
                                             <p><small>Floors</small><span>-</span></p>
                                         </section>
                                     </li>
                                     <li class="bottomTranslate translate ">
                                         <section>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/area.png" alt="Saya Desire Residency" /></div>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/area.png" alt="Saya Desire Residency" /></div>
                                             <p><small>Status</small><span>Delivered </span></p>
                                         </section>
                                     </li>
@@ -206,7 +206,7 @@ function SayaDesireResidency() {
             </section>
             <section class="w-100">
                 <a name="amenities"></a>
-                <div id="amenities" class="w-100 padding amenitiesContainer" style={{ backgroundImage: "url(https://ecis.in/sayahomes-react/assets/images/saya-desire-residency/amenities.jpg)" }}>
+                <div id="amenities" class="w-100 padding amenitiesContainer" style={{ backgroundImage: "url(https://sayahomes.com/assets/images/saya-desire-residency/amenities.jpg)" }}>
 
                     <div class="container-lg amenitiesWrapper">
                         <div class="amenBox">
@@ -214,10 +214,10 @@ function SayaDesireResidency() {
                                 <h3>Amenities</h3>
                                 <div class="allItems">
                                     <ul class="list-inline halfList">
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/club-house.png" alt="Clubhouse" /></div><span>Clubhouse</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/party-lawn.png" alt="Party Lawn" /></div><span>Party Lawn</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/gym.png" alt=" Gym" /></div><span> Gym</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/kids-play-area1.png" alt=" Kids Play Area" /></div><span> Kids Play Area </span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/club-house.png" alt="Clubhouse" /></div><span>Clubhouse</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/party-lawn.png" alt="Party Lawn" /></div><span>Party Lawn</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/gym.png" alt=" Gym" /></div><span> Gym</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/kids-play-area1.png" alt=" Kids Play Area" /></div><span> Kids Play Area </span></li>
                                     </ul>
                                 </div>
                                 <span class="arrow">→</span>
@@ -229,10 +229,10 @@ function SayaDesireResidency() {
                                 <h3>Features</h3>
                                 <div class="allItems">
                                     <ul class="list-inline halfList">
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/lift.png" alt="Hi-speed Elevators" /></div><span>Elevators</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/lobby.png" alt="A.C. Lobby" /></div><span>A.C. Lobby</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/power-backup.png" alt="Power Back-up" /></div><span>Power Back-up</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/parking.png" alt="Parking" /></div><span>Well-equipped clubhouse</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/lift.png" alt="Hi-speed Elevators" /></div><span>Elevators</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/lobby.png" alt="A.C. Lobby" /></div><span>A.C. Lobby</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/power-backup.png" alt="Power Back-up" /></div><span>Power Back-up</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/parking.png" alt="Parking" /></div><span>Well-equipped clubhouse</span></li>
                                     </ul>
                                 </div>
                                 <span class="arrow">→</span>
@@ -244,10 +244,10 @@ function SayaDesireResidency() {
                                 <h3>Connectivity</h3>
                                 <div class="allItems">
                                     <ul class="list-inline">
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/road.png" alt="road" /></div><span> Just off NH 24<br />0-15 Min</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/hospital.png" alt="road" /></div><span> Shanti Gopal Hospital in neighbourhood<br />5-10 Min</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/mall.png" alt="railway" /></div><span>Close to Shipra Mall<br />5-10 Min</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/ images/icons/railway.png" alt="railway" /></div><span>Anand Vihar Railway Station<br />10-15 Min</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/road.png" alt="road" /></div><span> Just off NH 24<br />0-15 Min</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/hospital.png" alt="road" /></div><span> Shanti Gopal Hospital in neighbourhood<br />5-10 Min</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/mall.png" alt="railway" /></div><span>Close to Shipra Mall<br />5-10 Min</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/ images/icons/railway.png" alt="railway" /></div><span>Anand Vihar Railway Station<br />10-15 Min</span></li>
                                     </ul>
                                     <div class="readmore"><a href="#modalforms" data-toggle="modal" data-modaltype="View on Map" data-brochure="" data-pagename="saya-desire-residency.php" data-projectname="Saya Desire Residency" class="button"><span class="text">View on Map</span></a></div>
                                 </div>
@@ -260,8 +260,8 @@ function SayaDesireResidency() {
                                 <h3>Security</h3>
                                 <div class="allItems">
                                     <ul class="list-inline">
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/security.png" alt="security" /></div><span>3-tier Cloud-based Security</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/cctv.png" alt="cctv" /></div><span>24x7 CCTV Surveillance</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/security.png" alt="security" /></div><span>3-tier Cloud-based Security</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/cctv.png" alt="cctv" /></div><span>24x7 CCTV Surveillance</span></li>
                                     </ul>
                                 </div>
                                 <span class="arrow">→</span>
@@ -273,10 +273,10 @@ function SayaDesireResidency() {
                                 <h3>Neighbourhood</h3>
                                 <div class="allItems">
                                     <ul class="list-inline">
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/mall.png" alt="mall" /></div><span>Shopping Mall</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/park.png" alt="park" /></div><span>Park</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/hospital.png" alt="hospital" /></div><span>Hospitals</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/school.png" alt="Schools" /></div><span>Schools</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/mall.png" alt="mall" /></div><span>Shopping Mall</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/park.png" alt="park" /></div><span>Park</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/hospital.png" alt="hospital" /></div><span>Hospitals</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/school.png" alt="Schools" /></div><span>Schools</span></li>
                                     </ul>
                                 </div>
                                 <span class="arrow">→</span>
@@ -298,10 +298,10 @@ function SayaDesireResidency() {
                             <div class="swiper-wrapper" id="swiper-wrapper-9aa8a6bdbfffdb8f" aria-live="polite" style={{ transform: "translate3d(0px, 0px, 0px)" }}>
                                 <div class="swiper-slide specSlide swiper-slide-active" role="group" aria-label="1 / 5" style={{ marginRight: "30px" }}>
                                     <div class="specDetails">
-                                        <div class="spec-img"><img src="https://ecis.in/sayahomes-react/assets/images/saya-desire-residency/specifications/kitchen.jpg" alt="Kitchen" /></div>
+                                        <div class="spec-img"><img src="https://sayahomes.com/assets/images/saya-desire-residency/specifications/kitchen.jpg" alt="Kitchen" /></div>
                                         <div class="inner">
                                             <div class="spec-title">
-                                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/icons/kitchen.png" class="filter-dark" alt="Saya zenith Kitchen" /></div>
+                                                <div class="img-fluid"><img src="https://sayahomes.com/assets/images/icons/kitchen.png" class="filter-dark" alt="Saya zenith Kitchen" /></div>
                                                 <h6>Kitchen</h6>
                                             </div>
                                             <p>Designed to be the heart of the home.</p>
@@ -316,10 +316,10 @@ function SayaDesireResidency() {
                                 </div>
                                 <div class="swiper-slide specSlide swiper-slide-next" role="group" aria-label="2 / 5" style={{ marginRight: "30px" }}>
                                     <div class="specDetails">
-                                        <div class="spec-img"><img src="https://ecis.in/sayahomes-react/assets/images/saya-desire-residency/specifications/wall.jpg" alt="Walls" /></div>
+                                        <div class="spec-img"><img src="https://sayahomes.com/assets/images/saya-desire-residency/specifications/wall.jpg" alt="Walls" /></div>
                                         <div class="inner">
                                             <div class="spec-title">
-                                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/icons/wall.png" class="filter-dark" alt="Saya zenith Walls" /></div>
+                                                <div class="img-fluid"><img src="https://sayahomes.com/assets/images/icons/wall.png" class="filter-dark" alt="Saya zenith Walls" /></div>
                                                 <h6>Walls</h6>
                                             </div>
                                             <p>Impeccably built to tell your home’s story.</p>
@@ -329,10 +329,10 @@ function SayaDesireResidency() {
                                 </div>
                                 <div class="swiper-slide specSlide" role="group" aria-label="3 / 5" style={{ marginRight: "30px" }}>
                                     <div class="specDetails">
-                                        <div class="spec-img"><img src="https://ecis.in/sayahomes-react/assets/images/saya-desire-residency/specifications/bathroom.jpg" alt="Bathroom" /></div>
+                                        <div class="spec-img"><img src="https://sayahomes.com/assets/images/saya-desire-residency/specifications/bathroom.jpg" alt="Bathroom" /></div>
                                         <div class="inner">
                                             <div class="spec-title">
-                                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/icons/master-toilet.png" class="filter-dark" alt="Saya zenith Bathroom" /></div>
+                                                <div class="img-fluid"><img src="https://sayahomes.com/assets/images/icons/master-toilet.png" class="filter-dark" alt="Saya zenith Bathroom" /></div>
                                                 <h6>Bathroom</h6>
                                             </div>
                                             <p>A perfect place built for you to relax and unwind.</p>
@@ -346,10 +346,10 @@ function SayaDesireResidency() {
                                 </div>
                                 <div class="swiper-slide specSlide" role="group" aria-label="4 / 5" style={{ marginRight: "30px" }}>
                                     <div class="specDetails">
-                                        <div class="spec-img"><img src="https://ecis.in/sayahomes-react/assets/images/saya-desire-residency/specifications/woodwork.jpg" alt="Woodwork" /></div>
+                                        <div class="spec-img"><img src="https://sayahomes.com/assets/images/saya-desire-residency/specifications/woodwork.jpg" alt="Woodwork" /></div>
                                         <div class="inner">
                                             <div class="spec-title">
-                                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/icons/wood.svg" class="filter-dark" alt="Saya zenith" /></div>
+                                                <div class="img-fluid"><img src="https://sayahomes.com/assets/images/icons/wood.svg" class="filter-dark" alt="Saya zenith" /></div>
                                                 <h6>Woodwork</h6>
                                             </div>
                                             <p>Interiors crafted with rich woodwork for an elegant finish.</p>
@@ -365,10 +365,10 @@ function SayaDesireResidency() {
                                 </div>
                                 <div class="swiper-slide specSlide" role="group" aria-label="5 / 5" style={{ marginRight: "30px" }}>
                                     <div class="specDetails">
-                                        <div class="spec-img"><img src="https://ecis.in/sayahomes-react/assets/images/saya-desire-residency/specifications/electrical.jpg" alt="Electricals" /></div>
+                                        <div class="spec-img"><img src="https://sayahomes.com/assets/images/saya-desire-residency/specifications/electrical.jpg" alt="Electricals" /></div>
                                         <div class="inner">
                                             <div class="spec-title">
-                                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/icons/electrical.png" class="filter-dark" alt="Saya zenith Electricals" /></div>
+                                                <div class="img-fluid"><img src="https://sayahomes.com/assets/images/icons/electrical.png" class="filter-dark" alt="Saya zenith Electricals" /></div>
                                                 <h6>Electricals</h6>
                                             </div>
                                             <p>Highest standards of electrical fittings that make your home come alive.</p>
@@ -406,33 +406,33 @@ function SayaDesireResidency() {
                                 <div class="swiper extSlider w-100 swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
                                     <div class="swiper-wrapper" id="swiper-wrapper-e9de1a21ce27206e" aria-live="polite" style={{ transform: "translate3d(0px, 0px, 0px)" }}>
                                         <div class="swiper-slide gallSlide swiper-slide-active" role="group" aria-label="1 / 6" style={{ marginRight: "30px" }}>
-                                            <a href="https://ecis.in/sayahomes-react/assets/images/saya-desire-residency/gallery/Saya-Desire-Residency-mobile.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="https://ecis.in/sayahomes-react/assets/images/saya-desire-residency/gallery/Saya-Desire-Residency-mobile.jpg" alt="Saya Desire Residency" />
+                                            <a href="https://sayahomes.com/assets/images/saya-desire-residency/gallery/Saya-Desire-Residency-mobile.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://sayahomes.com/assets/images/saya-desire-residency/gallery/Saya-Desire-Residency-mobile.jpg" alt="Saya Desire Residency" />
                                             </a>
                                         </div>
                                         <div class="swiper-slide gallSlide swiper-slide-next" role="group" aria-label="2 / 6" style={{ marginRight: "30px" }}>
-                                            <a href="https://ecis.in/sayahomes-react/assets/images/saya-desire-residency/gallery/Kitchen-desire.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="https://ecis.in/sayahomes-react/assets/images/saya-desire-residency/gallery/Kitchen-desire.jpg" alt="Saya Desire Residency" />
+                                            <a href="https://sayahomes.com/assets/images/saya-desire-residency/gallery/Kitchen-desire.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://sayahomes.com/assets/images/saya-desire-residency/gallery/Kitchen-desire.jpg" alt="Saya Desire Residency" />
                                             </a>
                                         </div>
                                         <div class="swiper-slide gallSlide" role="group" aria-label="3 / 6" style={{ marginRight: "30px" }}>
-                                            <a href="https://ecis.in/sayahomes-react/assets/images/saya-desire-residency/gallery/Wall.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="https://ecis.in/sayahomes-react/assets/images/saya-desire-residency/gallery/Wall.jpg" alt="Saya Desire Residency" />
+                                            <a href="https://sayahomes.com/assets/images/saya-desire-residency/gallery/Wall.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://sayahomes.com/assets/images/saya-desire-residency/gallery/Wall.jpg" alt="Saya Desire Residency" />
                                             </a>
                                         </div>
                                         <div class="swiper-slide gallSlide" role="group" aria-label="4 / 6" style={{ marginRight: "30px" }}>
-                                            <a href="https://ecis.in/sayahomes-react/assets/images/saya-desire-residency/gallery/Washroom.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="https://ecis.in/sayahomes-react/assets/images/saya-desire-residency/gallery/Washroom.jpg" alt="Saya Desire Residency" />
+                                            <a href="https://sayahomes.com/assets/images/saya-desire-residency/gallery/Washroom.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://sayahomes.com/assets/images/saya-desire-residency/gallery/Washroom.jpg" alt="Saya Desire Residency" />
                                             </a>
                                         </div>
                                         <div class="swiper-slide gallSlide" role="group" aria-label="5 / 6" style={{ marginRight: "30px" }}>
-                                            <a href="https://ecis.in/sayahomes-react/assets/images/saya-desire-residency/gallery/woodwork-desire.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="https://ecis.in/sayahomes-react/assets/images/saya-desire-residency/gallery/woodwork-desire.jpg" alt="Saya Desire Residency" />
+                                            <a href="https://sayahomes.com/assets/images/saya-desire-residency/gallery/woodwork-desire.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://sayahomes.com/assets/images/saya-desire-residency/gallery/woodwork-desire.jpg" alt="Saya Desire Residency" />
                                             </a>
                                         </div>
                                         <div class="swiper-slide gallSlide" role="group" aria-label="6 / 6" style={{ marginRight: "30px" }}>
-                                            <a href="https://ecis.in/sayahomes-react/assets/images/saya-desire-residency/gallery/Electricals-desire.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="https://ecis.in/sayahomes-react/assets/images/saya-desire-residency/gallery/Electricals-desire.jpg" alt="Saya Desire Residency" />
+                                            <a href="https://sayahomes.com/assets/images/saya-desire-residency/gallery/Electricals-desire.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://sayahomes.com/assets/images/saya-desire-residency/gallery/Electricals-desire.jpg" alt="Saya Desire Residency" />
                                             </a>
                                         </div>
                                     </div>
@@ -478,8 +478,8 @@ function SayaDesireResidency() {
                                     <div class="swiper news-slider blogContainer swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
                                         <div class="swiper-wrapper" id="swiper-wrapper-5ece64d8fff9ab97" aria-live="polite" style={{transform: "translate3d(0px, 0px, 0px)"}}>
                                             <div class="swiper-slide newsBox blogBox swiper-slide-active" role="group" aria-label="1 / 3" style={{width: "226px", marginRight: "10px"}}>
-                                                <a href="https://ecis.in/sayahomes-react/assets/images/awards/3563c150-0025-426b-a2e0-30c6068e3c61.jpg" class="inner h-100" data-magnify="awards" data-group="awards" data-caption="Excellence in Luxury Segment Homes">
-                                                    <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/awards/3563c150-0025-426b-a2e0-30c6068e3c61-th.jpg" alt="Saya Homes" class="h-100 object-cover" title="" /></div>
+                                                <a href="https://sayahomes.com/assets/images/awards/3563c150-0025-426b-a2e0-30c6068e3c61.jpg" class="inner h-100" data-magnify="awards" data-group="awards" data-caption="Excellence in Luxury Segment Homes">
+                                                    <div class="img-fluid"><img src="https://sayahomes.com/assets/images/awards/3563c150-0025-426b-a2e0-30c6068e3c61-th.jpg" alt="Saya Homes" class="h-100 object-cover" title="" /></div>
                                                     <article>
                                                         <h5 class="news-title mt-4">Excellence in Luxury Segment...</h5>
                                                         <p class="mb-0">ET Now Realty Conclave 2024</p>
@@ -488,7 +488,7 @@ function SayaDesireResidency() {
                                             </div>
                                             <div class="swiper-slide newsBox blogBox swiper-slide-next" role="group" aria-label="2 / 3" style={{width: "226px", marginRight: "10px"}}>
                                                 <a href="./images/awards/11f3e7c5-30cd-4a98-8190-341ee4a0fcb0.jpg" class="inner h-100" data-magnify="awards" data-group="awards" data-caption="Real Estate Developer of the Year">
-                                                    <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/awards/11f3e7c5-30cd-4a98-8190-341ee4a0fcb0-th.jpg" alt="Saya Homes" class="h-100 object-cover" title="" /></div>
+                                                    <div class="img-fluid"><img src="https://sayahomes.com/assets/images/awards/11f3e7c5-30cd-4a98-8190-341ee4a0fcb0-th.jpg" alt="Saya Homes" class="h-100 object-cover" title="" /></div>
                                                     <article>
                                                         <h5 class="news-title mt-4">Real Estate Developer of...</h5>
                                                         <p class="mb-0">ET Now Realty Conclave 2024</p>
@@ -497,7 +497,7 @@ function SayaDesireResidency() {
                                             </div>
                                             <div class="swiper-slide newsBox blogBox" role="group" aria-label="3 / 3" style={{width: "226px", marginRight: "10px"}}>
                                                 <a href="./images/awards/1.jpg" class="inner h-100" data-magnify="awards" data-group="awards" data-caption="ICONIC Real Estate Brand of The Year - Saya Group">
-                                                    <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/awards/th1.jpg" alt="Saya Homes" class="h-100 object-cover" title="" /></div>
+                                                    <div class="img-fluid"><img src="https://sayahomes.com/assets/images/awards/th1.jpg" alt="Saya Homes" class="h-100 object-cover" title="" /></div>
                                                     <article>
                                                         <h5 class="news-title mt-4">Iconic Real Estate Brand of...</h5>
                                                         <p class="mb-0">Times Business Awards, North 2024</p>

@@ -43,7 +43,7 @@ function MediaBlogs() {
       <div className="breadcrumbContainer">
         <div className="container-lg">
           <ol className="breadcrumb">
-            <li className="breadcrumb-item"><Link to='/sayahomes-react'>Home</Link></li>
+            <li className="breadcrumb-item"><Link to='/'>Home</Link></li>
             <li className="breadcrumb-item active" aria-current="page">Blogs</li>
           </ol>
         </div>
@@ -110,11 +110,14 @@ function MediaBlogs() {
                       </div>
                     </div>
                     <article>
-                      <Link to={`/sayahomes-react/blog-details/${blog.slugurl}`}>
+                      <Link to={`/blog-details/${blog.slugurl}`}>
                         <h5 className="news-title mb-2">{blog.heading}</h5>
                         <div className="date justify-content-between">
-                          <small>{blog.date.slice(0,10)}</small>
-                        </div>
+                          <small>
+                              {new Date(blog.date).toLocaleDateString('en-US', { day: 'numeric', month: 'long', year: 'numeric' })}
+                          </small>
+                      </div>
+
                       </Link>
                     </article>
                   </div>

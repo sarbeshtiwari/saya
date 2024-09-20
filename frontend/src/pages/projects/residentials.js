@@ -16,7 +16,7 @@ function Residentials() {
             <div className="breadcrumbContainer">
                 <div className="container-lg">
                     <ol className="breadcrumb">
-                        <li className="breadcrumb-item"><Link to='/home'>Home</Link></li>
+                        <li className="breadcrumb-item"><Link to='/'>Home</Link></li>
                         <li className="breadcrumb-item active" aria-current="page">Residential</li>
                     </ol>
                 </div>
@@ -26,7 +26,7 @@ function Residentials() {
                     <div className="row gap-row">
                         <div className="col-md-4 col-sm-6 hm-featured">
                             <Link to='/saya-gold-avenue' className="inner">
-                                <div className="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/gold-avenue/overview-image1.jpg" alt="Saya Gold Avenue" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
+                                <div className="img-fluid"><img src="https://sayahomes.com/assets/images/gold-avenue/overview-image1.jpg" alt="Saya Gold Avenue" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
                                 <div className="text">
                                     <span className="line"></span>
                                     <div className="projectBoxName">
@@ -42,7 +42,7 @@ function Residentials() {
                         </div>
                         <div className="col-md-4 col-sm-6 hm-featured">
                             <Link to='/saya-zion' className="inner">
-                                <div className="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/saya-zion.jpg" alt="Saya Zion" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
+                                <div className="img-fluid"><img src="https://sayahomes.com/assets/images/saya-zion.jpg" alt="Saya Zion" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
                                 <div className="text">
                                     <span className="line"></span>
                                     <div className="projectBoxName">
@@ -58,7 +58,7 @@ function Residentials() {
                         </div>
                         <div className="col-md-4 col-sm-6 hm-featured">
                             <Link to='/saya-zenith' className="inner">
-                                <div className="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/saya-zenith.jpg" alt="Saya Zenith" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
+                                <div className="img-fluid"><img src="https://sayahomes.com/assets/images/saya-zenith.jpg" alt="Saya Zenith" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
                                 <div className="text">
                                     <span className="line"></span>
                                     <div className="projectBoxName">
@@ -74,7 +74,7 @@ function Residentials() {
                         </div>
                         <div className="col-md-4 col-sm-6 hm-featured">
                             <Link to='/saya-desire-residency' className="inner">
-                                <div className="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/saya-desire-residency.jpg" alt="Saya Desire Residency" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
+                                <div className="img-fluid"><img src="https://sayahomes.com/assets/images/saya-desire-residency.jpg" alt="Saya Desire Residency" /><i className="fa-solid fa-arrow-up-right-from-square"></i></div>
                                 <div className="text">
                                     <span className="line"></span>
                                     <div className="projectBoxName">

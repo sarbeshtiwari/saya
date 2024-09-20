@@ -93,7 +93,7 @@ function Careers() {
                 <div className="breadcrumbContainer">
                     <div className="container-lg">
                         <ol className="breadcrumb">
-                            <li className="breadcrumb-item"><Link to='/sayahomes-react'>Home</Link></li>
+                            <li className="breadcrumb-item"><Link to='/'>Home</Link></li>
                             <li className="breadcrumb-item active" aria-current="page">Careers</li>
                         </ol>
                     </div>
@@ -114,7 +114,7 @@ function Careers() {
                                 </div>
                             </div>
                             <div className="col-lg-6 gridBoxImg">
-                                <img src="https://ecis.in/sayahomes-react/assets/images/career-Banner.jpg" className="h-100 object-cover" alt='' />
+                                <img src="https://sayahomes.com/assets/images/career-Banner.jpg" className="h-100 object-cover" alt='' />
                             </div>
                         </div>
                     </div>
@@ -129,19 +129,19 @@ function Careers() {
                                 <div className="col-sm-4 opportunityBox">
                                     <div className="inner">
                                         <h5>Graduates</h5>
-                                        <img src="https://ecis.in/sayahomes-react/assets/images/icons/cgraduates.svg" alt='' />
+                                        <img src="https://sayahomes.com/assets/images/icons/cgraduates.svg" alt='' />
                                     </div>
                                 </div>
                                 <div className="col-sm-4 opportunityBox">
                                     <div className="inner">
                                         <h5>Experienced <br />Professionals</h5>
-                                        <img src="https://ecis.in/sayahomes-react/assets/images/icons/professionals.svg" alt='' />
+                                        <img src="https://sayahomes.com/assets/images/icons/professionals.svg" alt='' />
                                     </div>
                                 </div>
                                 <div className="col-sm-4 opportunityBox">
                                     <div className="inner">
                                         <h5>Students/Internships</h5>
-                                        <img src="https://ecis.in/sayahomes-react/assets/images/icons/students.svg" alt='' />
+                                        <img src="https://sayahomes.com/assets/images/icons/students.svg" alt='' />
                                     </div>
                                 </div>
                             </div>

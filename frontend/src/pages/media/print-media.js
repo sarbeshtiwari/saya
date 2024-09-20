@@ -40,8 +40,8 @@ function PrintMedia() {
                         <div id="partners-2024" className="partners-container show">
                             <div className="row news-slider gap-row">
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/toi15824-big.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/toi15824.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/toi15824-big.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/toi15824.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                         <article>
                                             <h5 className="news-title mt-4">Times of India</h5>
                                             <div className="date justify-content-center justify-content-sm-between">
@@ -51,8 +51,8 @@ function PrintMedia() {
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/bb4ac7dc-013c-4594-8c31-8e6cba81f156.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/bb4ac7dc-013c-4594-8c31-8e6cba81f156-th.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/bb4ac7dc-013c-4594-8c31-8e6cba81f156.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/bb4ac7dc-013c-4594-8c31-8e6cba81f156-th.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                         <article>
                                             <h5 className="news-title mt-4">Navbharat Times</h5>
                                             <div className="date justify-content-center justify-content-sm-between">
@@ -66,8 +66,8 @@ function PrintMedia() {
                         <div id="partners-2022" className="partners-container">
                             <div className="row news-slider gap-row">
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/dainik-jagran-15.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/dainik-jagran-15.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/dainik-jagran-15.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/dainik-jagran-15.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
 
                                     </a>
                                 </div>
@@ -76,38 +76,38 @@ function PrintMedia() {
                         <div id="partners-2021" className="partners-container">
                             <div className="row news-slider gap-row">
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2021/1.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2021/1.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2021/1.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2021/1.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2021/2.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2021/2.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2021/2.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2021/2.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2021/3.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2021/3.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2021/3.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2021/3.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2021/4.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2021/4.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2021/4.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2021/4.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2021/5.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2021/5.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2021/5.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2021/5.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2021/6.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2021/6.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2021/6.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2021/6.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2021/7.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2021/7.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2021/7.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2021/7.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                             </div>
@@ -115,123 +115,123 @@ function PrintMedia() {
                         <div id="partners-2020" className="partners-container">
                             <div className="row news-slider gap-row">
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/1.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/1.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/1.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/1.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/2.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/2.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/2.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/2.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/3.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/3.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/3.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/3.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/4.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/4.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/4.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/4.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/5.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/5.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/5.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/5.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/6.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/6.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/6.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/6.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/7.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/7.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/7.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/7.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/8.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/8.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/8.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/8.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/9.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/9.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/9.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/9.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/10.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/10.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/10.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/10.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/11.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/11.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/11.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/11.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/12.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/12.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/12.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/12.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/13.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/13.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/13.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/13.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/14.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/14.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/14.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/14.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/15.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/15.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/15.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/15.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/16.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/16.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/16.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/16.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/17.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/17.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/17.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/17.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/18.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/18.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/18.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/18.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/19.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/19.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/19.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/19.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/20.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/20.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/20.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/20.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/21.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/21.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/21.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/21.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/22.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/22.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/22.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/22.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/23.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/23.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/23.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/23.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2020/24.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2020/24.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2020/24.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2020/24.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                             </div>
@@ -239,123 +239,123 @@ function PrintMedia() {
                         <div id="partners-2019" className="partners-container">
                             <div className="row news-slider gap-row">
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/1.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/1.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/1.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/1.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/2.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/2.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/2.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/2.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/3.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/3.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/3.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/3.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/4.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/4.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/4.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/4.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/5.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/5.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/5.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/5.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/6.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/6.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/6.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/6.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/7.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/7.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/7.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/7.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/8.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/8.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/8.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/8.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/9.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/9.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/9.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/9.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/10.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/10.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/10.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/10.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/11.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/11.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/11.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/11.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/12.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/12.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/12.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/12.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/13.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/13.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/13.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/13.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/14.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/14.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/14.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/14.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/15.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/15.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/15.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/15.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/16.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/16.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/16.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/16.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/17.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/17.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/17.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/17.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/18.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/18.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/18.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/18.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/19.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/19.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/19.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/19.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/20.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/20.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/20.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/20.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/21.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/21.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/21.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/21.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/22.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/22.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/22.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/22.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/23.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/23.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/23.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/23.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 newsBox">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/print/2019/24.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
-                                        <div className="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/print/2019/24.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
+                                    <a href="https://sayahomes.com/assets/images/print/2019/24.jpg" data-magnify="gal" data-group="Print Media" data-caption="Print Media" className="inner h-100">
+                                        <div className="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/print/2019/24.jpg" alt="Saya Realty" className="h-100 object-cover" title /></div>
                                     </a>
                                 </div>
 

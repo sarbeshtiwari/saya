@@ -41,31 +41,31 @@ function AppreciationLetter() {
                     </div>
                     <div class="row gap-row">
                         <div class="col-lg-9 appreciation-video">
-                            <video  src="https://ecis.in/sayahomes-react/assets/images/videos/appreciation.mp4" autoPlay loop muted playsInline class="h-100 bg-orange">
+                            <video  src="https://sayahomes.com/assets/images/videos/appreciation.mp4" autoPlay loop muted playsInline class="h-100 bg-orange">
                             </video>
                         </div>
                         <div class="col-lg-3 apprecial-letter-box">
                             <div class="swiper appreciation-slider">
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide appreciation-slide newsBox">
-                                        <a href="https://ecis.in/sayahomes-react/assets/images/appreciation-letters/Indian-Bank.jpg" class="inner h-10" data-magnify="magnify" data-group="appre" data-caption="Indian Bank">
-                                            <div class="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/appreciation-letters/Indian-Bank.jpg" alt="Saya Homes" class="h-100 object-cover" /></div>
+                                        <a href="https://sayahomes.com/assets/images/appreciation-letters/Indian-Bank.jpg" class="inner h-10" data-magnify="magnify" data-group="appre" data-caption="Indian Bank">
+                                            <div class="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/appreciation-letters/Indian-Bank.jpg" alt="Saya Homes" class="h-100 object-cover" /></div>
                                             <article>
                                                 <h5 class="news-title mt-4">Indian Bank</h5>
                                             </article>
                                         </a>
                                     </div>
                                     <div class="swiper-slide appreciation-slide newsBox">
-                                        <a href="https://ecis.in/sayahomes-react/assets/images/appreciation-letters/Canara-Bank.jpg" class="inner h-10" data-magnify="magnify" data-group="appre" data-caption="Canara Bank">
-                                            <div class="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/appreciation-letters/Canara-Bank.jpg" alt="Saya Homes" class="h-100 object-cover" /></div>
+                                        <a href="https://sayahomes.com/assets/images/appreciation-letters/Canara-Bank.jpg" class="inner h-10" data-magnify="magnify" data-group="appre" data-caption="Canara Bank">
+                                            <div class="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/appreciation-letters/Canara-Bank.jpg" alt="Saya Homes" class="h-100 object-cover" /></div>
                                             <article>
                                                 <h5 class="news-title mt-4">Canara Bank</h5>
                                             </article>
                                         </a>
                                     </div>
                                     <div class="swiper-slide appreciation-slide newsBox">
-                                        <a href="https://ecis.in/sayahomes-react/assets/images/appreciation-letters/Union-Bank.jpg" class="inner h-10" data-magnify="magnify" data-group="appre" data-caption="Union Bank">
-                                            <div class="img-fluid mt-0"><img src="https://ecis.in/sayahomes-react/assets/images/appreciation-letters/Union-Bank.jpg" alt="Saya Homes" class="h-100 object-cover" /></div>
+                                        <a href="https://sayahomes.com/assets/images/appreciation-letters/Union-Bank.jpg" class="inner h-10" data-magnify="magnify" data-group="appre" data-caption="Union Bank">
+                                            <div class="img-fluid mt-0"><img src="https://sayahomes.com/assets/images/appreciation-letters/Union-Bank.jpg" alt="Saya Homes" class="h-100 object-cover" /></div>
                                             <article>
                                                 <h5 class="news-title mt-4">Union Bank</h5>
                                             </article>

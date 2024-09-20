@@ -14,7 +14,7 @@ function AboutOverview() {
                         </div>
 
                         <div class="saya-stats">
-                            <div class="stats-logo"><div><img src="https://ecis.in/sayahomes-react/assets/images/logo-icon.svg" alt /></div></div>
+                            <div class="stats-logo"><div><img src="https://sayahomes.com/assets/images/logo-icon.svg" alt /></div></div>
                             <div class="row gap-row">
                                 <div class="col-lg-3 col-sm-6 saya-stats-box">
                                     <div class="inner">
@@ -46,8 +46,8 @@ function AboutOverview() {
                             <div class="col-6 feature-imgs-wrapper">
                                 <div class="position-relative overflow-hidden">
                                     <div class="row">
-                                        <div class="col-6 feature-img-box"><img src="https://ecis.in/sayahomes-react/assets/images/about-img1.jpg" alt /></div>
-                                        <div class="col-6 feature-img-box"><img src="https://ecis.in/sayahomes-react/assets/images/about-img2.jpg" alt /></div>
+                                        <div class="col-6 feature-img-box"><img src="https://sayahomes.com/assets/images/about-img1.jpg" alt /></div>
+                                        <div class="col-6 feature-img-box"><img src="https://sayahomes.com/assets/images/about-img2.jpg" alt /></div>
                                     </div>
                                     <div class="gradient-overlay"></div>
                                 </div>
@@ -55,8 +55,8 @@ function AboutOverview() {
                             <div class="col-6 feature-imgs-wrapper">
                                 <div class="position-relative overflow-hidden">
                                     <div class="row">
-                                        <div class="col-6 feature-img-box"><img src="https://ecis.in/sayahomes-react/assets/images/about-img33.jpg" alt /></div>
-                                        <div class="col-6 feature-img-box"><img src="https://ecis.in/sayahomes-react/assets/images/about-img4.jpg" alt /></div>
+                                        <div class="col-6 feature-img-box"><img src="https://sayahomes.com/assets/images/about-img33.jpg" alt /></div>
+                                        <div class="col-6 feature-img-box"><img src="https://sayahomes.com/assets/images/about-img4.jpg" alt /></div>
                                     </div>
                                     <div class="gradient-overlay reverse d-none d-lg-block"></div>
                                 </div>

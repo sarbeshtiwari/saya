@@ -8,7 +8,7 @@ function VisonMission() {
                     <div class="container-lg">
                         <div class="row no-gutters mb-4 mb-lg-0">
                             <div class="col-lg-6 col-md-7 gridBoxText bg-white d-flex align-items-center">
-                                <div class="gridIcon"><img src="https://ecis.in/sayahomes-react/assets/images/icons/vision.svg" alt /></div>
+                                <div class="gridIcon"><img src="https://sayahomes.com/assets/images/icons/vision.svg" alt /></div>
                                 <div class="inner p-5">
                                     <div class="heading">
                                         <h2 class="h1 text-serif text-orange mb-0">Vision</h2>
@@ -17,12 +17,12 @@ function VisonMission() {
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-5 gridBoxImg">
-                                <img src="https://ecis.in/sayahomes-react/assets/images/vision.webp" class="h-100 object-cover" alt />
+                                <img src="https://sayahomes.com/assets/images/vision.webp" class="h-100 object-cover" alt />
                             </div>
                         </div>
                         <div class="row no-gutters mb-4 mb-lg-0 flex-row-reverse">
                             <div class="col-lg-6 col-md-7 gridBoxText bg-white d-flex align-items-center">
-                                <div class="gridIcon"><img src="https://ecis.in/sayahomes-react/assets/images/icons/mission.svg" alt /></div>
+                                <div class="gridIcon"><img src="https://sayahomes.com/assets/images/icons/mission.svg" alt /></div>
                                 <div class="inner p-5">
                                     <div class="heading">
                                         <h2 class="h1 text-serif text-orange mb-0">Mission</h2>
@@ -31,12 +31,12 @@ function VisonMission() {
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-5 gridBoxImg">
-                                <img src="https://ecis.in/sayahomes-react/assets/images/mission.webp" class="h-100 object-cover" alt />
+                                <img src="https://sayahomes.com/assets/images/mission.webp" class="h-100 object-cover" alt />
                             </div>
                         </div>
                         <div class="row no-gutters">
                             <div class="col-lg-6 col-md-7 gridBoxText bg-white d-flex align-items-center">
-                                <div class="gridIcon"><img src="https://ecis.in/sayahomes-react/assets/images/icons/core-value.svg" alt /></div>
+                                <div class="gridIcon"><img src="https://sayahomes.com/assets/images/icons/core-value.svg" alt /></div>
                                 <div class="inner p-5">
                                     <div class="heading">
                                         <h2 class="h1 text-serif text-orange mb-0">Purpose</h2>
@@ -45,7 +45,7 @@ function VisonMission() {
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-5 gridBoxImg">
-                                <img src="https://ecis.in/sayahomes-react/assets/images/core-value3.jpg" class="h-100 object-cover" alt />
+                                <img src="https://sayahomes.com/assets/images/core-value3.jpg" class="h-100 object-cover" alt />
                             </div>
                         </div>
                     </div>

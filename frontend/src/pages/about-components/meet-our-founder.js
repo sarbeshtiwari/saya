@@ -25,7 +25,7 @@ function MeetOurFounders() {
                         <div class="chairmanContainer">
                             <div class="row no-gutters">
                                 <div class="col-md-6 chairman-image">
-                                    <div class="img-fluid h-100"><img src="https://ecis.in/sayahomes-react/assets/images/Chairman-Sir2.jpg" class="h-100 object-cover" alt /></div>
+                                    <div class="img-fluid h-100"><img src="https://sayahomes.com/assets/images/Chairman-Sir2.jpg" class="h-100 object-cover" alt /></div>
                                 </div>
                                 <div class="col-md-6 chairman-textarea">
                                     <div class="inner">

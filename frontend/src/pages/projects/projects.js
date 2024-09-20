@@ -16,7 +16,7 @@ function Projects() {
             <div class="breadcrumbContainer">
                 <div class="container-lg">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><Link to='/home'>Home</Link></li>
+                        <li class="breadcrumb-item"><Link to='/'>Home</Link></li>
                         <li class="breadcrumb-item active" aria-current="page">Projects</li>
                     </ol>
                 </div>
@@ -26,7 +26,7 @@ function Projects() {
                     <div class="row gap-row">
                         <div class="col-md-4 col-sm-6 hm-featured">
                             <Link to='/saya-gold-avenue' class="inner">
-                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/gold-avenue/overview-image1.jpg" alt="Saya Gold Avenue" /><i class="fa-solid fa-arrow-up-right-from-square"></i></div>
+                                <div class="img-fluid"><img src="https://sayahomes.com/assets/images/gold-avenue/overview-image1.jpg" alt="Saya Gold Avenue" /><i class="fa-solid fa-arrow-up-right-from-square"></i></div>
                                 <div class="text">
                                     <span class="line"></span>
                                     <div class="projectBoxName">
@@ -42,7 +42,7 @@ function Projects() {
                         </div>
                         <div class="col-md-4 col-sm-6 hm-featured">
                             <Link to='/saya-zion' class="inner">
-                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/saya-zion.jpg" alt="Saya Zion" /><i class="fa-solid fa-arrow-up-right-from-square" ></i></div>
+                                <div class="img-fluid"><img src="https://sayahomes.com/assets/images/saya-zion.jpg" alt="Saya Zion" /><i class="fa-solid fa-arrow-up-right-from-square" ></i></div>
                                 <div class="text">
                                     <span class="line"></span>
                                     <div class="projectBoxName">
@@ -58,7 +58,7 @@ function Projects() {
                         </div>
                         <div class="col-md-4 col-sm-6 hm-featured">
                             <Link to='/saya-zenith' class="inner">
-                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/saya-zenith.jpg" alt="Saya Zenith" /><i class="fa-solid fa-arrow-up-right-from-square" ></i></div>
+                                <div class="img-fluid"><img src="https://sayahomes.com/assets/images/saya-zenith.jpg" alt="Saya Zenith" /><i class="fa-solid fa-arrow-up-right-from-square" ></i></div>
                                 <div class="text">
                                     <span class="line"></span>
                                     <div class="projectBoxName">
@@ -74,7 +74,7 @@ function Projects() {
                         </div>
                         <div class="col-md-4 col-sm-6 hm-featured">
                             <Link to='/saya-desire-residency' class="inner">
-                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/saya-desire-residency.jpg" alt="Saya Desire Residency" /><i class="fa-solid fa-arrow-up-right-from-square"></i></div>
+                                <div class="img-fluid"><img src="https://sayahomes.com/assets/images/saya-desire-residency.jpg" alt="Saya Desire Residency" /><i class="fa-solid fa-arrow-up-right-from-square"></i></div>
                                 <div class="text">
                                     <span class="line"></span>
                                     <div class="projectBoxName">
@@ -90,7 +90,7 @@ function Projects() {
                         </div>
                         <div class="col-md-4 col-sm-6 hm-featured">
                             <Link to='/saya-southX' class="inner">
-                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/south-x/saya-southx.webp" alt="Saya South X" /><i class="fa-solid fa-arrow-up-right-from-square"></i></div>
+                                <div class="img-fluid"><img src="https://sayahomes.com/assets/images/south-x/saya-southx.webp" alt="Saya South X" /><i class="fa-solid fa-arrow-up-right-from-square"></i></div>
                                 <div class="text">
                                     <span class="line"></span>
                                     <div class="projectBoxName">
@@ -106,7 +106,7 @@ function Projects() {
                         </div>
                         <div class="col-md-4 col-sm-6 hm-featured">
                             <Link to='/saya-biztop' class="inner">
-                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/biztop-th.jpg" alt="Biztop" /><i class="fa-solid fa-arrow-up-right-from-square"></i></div>
+                                <div class="img-fluid"><img src="https://sayahomes.com/assets/images/biztop-th.jpg" alt="Biztop" /><i class="fa-solid fa-arrow-up-right-from-square"></i></div>
                                 <div class="text">
                                     <span class="line"></span>
                                     <div class="projectBoxName">
@@ -122,7 +122,7 @@ function Projects() {
                         </div>
                         <div class="col-md-4 col-sm-6 hm-featured">
                             <Link to='/saya-piazza' class="inner">
-                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/saya-piazza.jpg" alt="Saya Piazza" /><i class="fa-solid fa-arrow-up-right-from-square"></i></div>
+                                <div class="img-fluid"><img src="https://sayahomes.com/assets/images/saya-piazza.jpg" alt="Saya Piazza" /><i class="fa-solid fa-arrow-up-right-from-square"></i></div>
                                 <div class="text">
                                     <span class="line"></span>
                                     <div class="projectBoxName">

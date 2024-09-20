@@ -142,16 +142,16 @@ function SayaPiazza() {
         <div>
             <Navbar />
             <div class="insideBanner w-100">
-                <img src="https://ecis.in/sayahomes-react/assets/images/saya-piazza-banner.jpg" class="h-100 object-cover" />
+                <img src="https://sayahomes.com/assets/images/saya-piazza-banner.jpg" class="h-100 object-cover" />
                 <div class="project-bannerBox container-lg">
-                    <div class="pageLogo"><img src="https://ecis.in/sayahomes-react/assets/images/SayaPiazza.svg" alt="Saya Piazza" />
+                    <div class="pageLogo"><img src="https://sayahomes.com/assets/images/SayaPiazza.svg" alt="Saya Piazza" />
                         <p>Sector 131, Noida</p>
                     </div>
                     <ul class="list-inline unitsBtn">
 
                         <li class="bottomTranslate translate doneTranslate">
                             <section>
-                                <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/tower.png" alt="Saya Piazza" /></div>
+                                <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/tower.png" alt="Saya Piazza" /></div>
                                 <p>Premium Retail Arcade</p>
                             </section>
                         </li>
@@ -163,7 +163,7 @@ function SayaPiazza() {
                 <div class="container-lg">
                     <div class="pageMenuBtn"><small></small></div>
                     <ul class="list-inline">
-                        <li class="topTranslate "><Link to='/sayahomes-react'><i class="fa fa-home"></i></Link></li>
+                        <li class="topTranslate "><Link to='/'><i class="fa fa-home"></i></Link></li>
                         <li class="topTranslate "><a href="#overview">Overview</a></li>
                         <li class="topTranslate "><a href="#amenities">Amenities</a></li>
                         <li class="topTranslate "><a href="#specifications">Specifications</a></li>
@@ -185,7 +185,7 @@ function SayaPiazza() {
             </div>
             <section class="w-100">
                 <a name="overview"></a>
-                <div id="overview" class="w-100 padding position-relative lightBg scrollto overviewBg" style={{ backgroundImage: "url(https://ecis.in/sayahomes-react/assets/images/saya-piazza/gallery/1.jpg)" }}>
+                <div id="overview" class="w-100 padding position-relative lightBg scrollto overviewBg" style={{ backgroundImage: "url(https://sayahomes.com/assets/images/saya-piazza/gallery/1.jpg)" }}>
                     <div class="container-lg">
                         <div class="row">
 
@@ -199,13 +199,13 @@ function SayaPiazza() {
                                 <ul class="list-inline unitsBtn overview-unitsBtn bottomTranslate translate doneTranslate">
                                     <li class="bottomTranslate translate ">
                                         <section>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/unit.png" alt="Saya Piazza" /></div>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/unit.png" alt="Saya Piazza" /></div>
                                             <p><small>Families</small>50,000+<span></span></p>
                                         </section>
                                     </li>
                                     <li class="bottomTranslate translate ">
                                         <section>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/area.png" alt="Saya Piazza" /></div>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/area.png" alt="Saya Piazza" /></div>
                                             <p><small>Status</small><span>Ongoing </span></p>
                                         </section>
                                     </li>
@@ -217,7 +217,7 @@ function SayaPiazza() {
             </section>
             <section class="w-100">
                 <a name="amenities"></a>
-                <div id="amenities" class="w-100 padding amenitiesContainer" style={{ backgroundImage: "url(https://ecis.in/sayahomes-react/assets/images/saya-piazza/amenities.jpg)" }}>
+                <div id="amenities" class="w-100 padding amenitiesContainer" style={{ backgroundImage: "url(https://sayahomes.com/assets/images/saya-piazza/amenities.jpg)" }}>
 
                     <div class="container-lg amenitiesWrapper">
                         <div class="amenBox active">
@@ -226,16 +226,16 @@ function SayaPiazza() {
                                 <div class="allItems">
                                     <ul class="list-inline halfList">
                                         <li>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/parking.png" alt="Ample Parking" /></div><span>Ample Parking</span>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/parking.png" alt="Ample Parking" /></div><span>Ample Parking</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/dinner.png" alt="Fine Dining" /></div><span>Fine Dining</span>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/dinner.png" alt="Fine Dining" /></div><span>Fine Dining</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/people.png" alt="Banquets" /></div><span>Hypermarket</span>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/people.png" alt="Banquets" /></div><span>Hypermarket</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/3-side-open.png" alt="3-Side Open" /></div><span>2-Side Open</span>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/3-side-open.png" alt="3-Side Open" /></div><span>2-Side Open</span>
                                         </li>
                                     </ul>
                                 </div>
@@ -249,16 +249,16 @@ function SayaPiazza() {
                                 <div class="allItems">
                                     <ul class="list-inline halfList">
                                         <li>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/lift.png" alt="Hi-speed Elevators" /></div><span>Elevators</span>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/lift.png" alt="Hi-speed Elevators" /></div><span>Elevators</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/lobby.png" alt="A.C. Lobby" /></div><span>A.C. Lobby</span>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/lobby.png" alt="A.C. Lobby" /></div><span>A.C. Lobby</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/power-backup.png" alt="Power Back-up" /></div><span>24/7 Power Back-up</span>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/power-backup.png" alt="Power Back-up" /></div><span>24/7 Power Back-up</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/golf-field.png" alt="golf-field" /></div><span>Golf Course Facing</span>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/golf-field.png" alt="golf-field" /></div><span>Golf Course Facing</span>
                                         </li>
                                     </ul>
                                 </div>
@@ -272,22 +272,22 @@ function SayaPiazza() {
                                 <div class="allItems">
                                     <ul class="list-inline">
                                         <li>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/school.png" alt="school" /></div><span> Amity University<br />0-5 Min</span>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/school.png" alt="school" /></div><span> Amity University<br />0-5 Min</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/railway.png" alt="railway" /></div><span>Sector 137 Metro Station<br />0-5 Min</span>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/railway.png" alt="railway" /></div><span>Sector 137 Metro Station<br />0-5 Min</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/road.png" alt="road" /></div><span>DND &amp; Sector 18, Noida<br />5-10 Min</span>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/road.png" alt="road" /></div><span>DND &amp; Sector 18, Noida<br />5-10 Min</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/hospital.png" alt="Hospital" /></div><span>JP Multispecility Hospital<br />5-10 Min</span>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/hospital.png" alt="Hospital" /></div><span>JP Multispecility Hospital<br />5-10 Min</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/temple.png" alt="Temple" /></div><span>Akshardham<br />10-15 Min</span>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/temple.png" alt="Temple" /></div><span>Akshardham<br />10-15 Min</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/airport.png" alt="airport" /></div><span>Noida International Airport<br />10-35 Min</span>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/airport.png" alt="airport" /></div><span>Noida International Airport<br />10-35 Min</span>
                                         </li>
                                     </ul>
                                     <div class="readmore"><a href="#modalforms" data-toggle="modal" data-modaltype="View on Map" data-brochure="" data-pagename="saya-piazza.php" data-projectname="Saya Piazza" class="button"><span class="text">View on Map</span></a></div>
@@ -302,10 +302,10 @@ function SayaPiazza() {
                                 <div class="allItems">
                                     <ul class="list-inline">
                                         <li>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/security.png" alt="security" /></div><span>2-tier Cloud-based Security</span>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/security.png" alt="security" /></div><span>2-tier Cloud-based Security</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/cctv.png" alt="cctv" /></div><span>24x7 CCTV Surveillance</span>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/cctv.png" alt="cctv" /></div><span>24x7 CCTV Surveillance</span>
                                         </li>
                                     </ul>
                                 </div>
@@ -319,13 +319,13 @@ function SayaPiazza() {
                                 <div class="allItems">
                                     <ul class="list-inline">
                                         <li>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/park.png" alt="park" /></div><span>Park</span>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/park.png" alt="park" /></div><span>Park</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/hospital.png" alt="hospital" /></div><span>Hospitals</span>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/hospital.png" alt="hospital" /></div><span>Hospitals</span>
                                         </li>
                                         <li>
-                                            <div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/school.png" alt="Schools" /></div><span>Schools</span>
+                                            <div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/school.png" alt="Schools" /></div><span>Schools</span>
                                         </li>
                                     </ul>
                                 </div>
@@ -348,10 +348,10 @@ function SayaPiazza() {
                             <div class="swiper-wrapper" id="swiper-wrapper-c268648288853f30" aria-live="polite" style={{ transform: "translate3d(0px, 0px, 0px)" }}>
                                 <div class="swiper-slide specSlide swiper-slide-active" role="group" aria-label="1 / 4" style={{ marginRight: "30px;" }}>
                                     <div class="specDetails">
-                                        <div class="spec-img"><img src="https://ecis.in/sayahomes-react/assets/images/saya-piazza/specifications/lgf.jpg" alt="Balcony" /></div>
+                                        <div class="spec-img"><img src="https://sayahomes.com/assets/images/saya-piazza/specifications/lgf.jpg" alt="Balcony" /></div>
                                         <div class="inner">
                                             <div class="spec-title">
-                                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/icons/shops.svg" class="filter-dark" alt="Saya Piazza Lower Ground Floor" /></div>
+                                                <div class="img-fluid"><img src="https://sayahomes.com/assets/images/icons/shops.svg" class="filter-dark" alt="Saya Piazza Lower Ground Floor" /></div>
                                                 <h6>Lower Ground Floor</h6>
                                             </div>
                                             <p>From home essentials to the latest fashion, you’ll be spoilt for choices.</p>
@@ -366,10 +366,10 @@ function SayaPiazza() {
                                 </div>
                                 <div class="swiper-slide specSlide swiper-slide-next" role="group" aria-label="2 / 4" style={{ marginRight: "30px" }}>
                                     <div class="specDetails">
-                                        <div class="spec-img"><img src="https://ecis.in/sayahomes-react/assets/images/saya-piazza/specifications/ff.jpg" alt="Balcony" /></div>
+                                        <div class="spec-img"><img src="https://sayahomes.com/assets/images/saya-piazza/specifications/ff.jpg" alt="Balcony" /></div>
                                         <div class="inner"> /
                                             <div class="spec-title">
-                                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/icons/salon.svg" class="filter-dark" alt="Saya Piazza " /></div>
+                                                <div class="img-fluid"><img src="https://sayahomes.com/assets/images/icons/salon.svg" class="filter-dark" alt="Saya Piazza " /></div>
                                                 <h6>First Floor</h6>
                                             </div>
                                             <p>Glam up at your favourite salon or hunt for your favourite pair of heels. This floor has it all.</p>
@@ -378,10 +378,10 @@ function SayaPiazza() {
                                 </div>
                                 <div class="swiper-slide specSlide" role="group" aria-label="3 / 4" style={{ marginRight: "30px" }}>
                                     <div class="specDetails">
-                                        <div class="spec-img"><img src="https://ecis.in/sayahomes-react/assets/images/saya-piazza/specifications/sf.jpg" alt="Balcony" /></div>
+                                        <div class="spec-img"><img src="https://sayahomes.com/assets/images/saya-piazza/specifications/sf.jpg" alt="Balcony" /></div>
                                         <div class="inner">
                                             <div class="spec-title">
-                                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/icons/gaming.svg" class="filter-dark" alt="Saya Piazza " /></div>
+                                                <div class="img-fluid"><img src="https://sayahomes.com/assets/images/icons/gaming.svg" class="filter-dark" alt="Saya Piazza " /></div>
                                                 <h6>Second Floor</h6>
                                             </div>
                                             <p>Challenge yourself at the game zone or flex your muscles at the gym. We leave it to you.</p>
@@ -390,10 +390,10 @@ function SayaPiazza() {
                                 </div>
                                 <div class="swiper-slide specSlide" role="group" aria-label="4 / 4" style={{ marginRight: "30px" }}>
                                     <div class="specDetails">
-                                        <div class="spec-img"><img src="https://ecis.in/sayahomes-react/assets/images/saya-piazza/specifications/tf.jpg" alt="Balcony" /></div>
+                                        <div class="spec-img"><img src="https://sayahomes.com/assets/images/saya-piazza/specifications/tf.jpg" alt="Balcony" /></div>
                                         <div class="inner">
                                             <div class="spec-title">
-                                                <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/icons/golf-course.svg" class="filter-dark" alt="Saya Piazza" /></div>
+                                                <div class="img-fluid"><img src="https://sayahomes.com/assets/images/icons/golf-course.svg" class="filter-dark" alt="Saya Piazza" /></div>
                                                 <h6>Third Floor</h6>
                                             </div>
                                             <p>Enjoy a scrumptious meal with an expansive view of the golf course.</p>
@@ -448,43 +448,43 @@ function SayaPiazza() {
                                 <div class="swiper extSlider w-100 swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
                                     <div class="swiper-wrapper" id="swiper-wrapper-69683be5e563335a" aria-live="polite" style={{ transform: "translate3d(0px, 0px, 0px)" }}>
                                         <div class="swiper-slide gallSlide swiper-slide-active" role="group" aria-label="1 / 8" style={{ marginRight: "30px" }}>
-                                            <a href="https://ecis.in/sayahomes-react/assets/images/saya-piazza/gallery/3.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="https://ecis.in/sayahomes-react/assets/images/saya-piazza/gallery/3.jpg" alt="Saya Piazza" />
+                                            <a href="https://sayahomes.com/assets/images/saya-piazza/gallery/3.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://sayahomes.com/assets/images/saya-piazza/gallery/3.jpg" alt="Saya Piazza" />
                                             </a>
                                         </div>
                                         <div class="swiper-slide gallSlide swiper-slide-next" role="group" aria-label="2 / 8" style={{ marginRight: "30px" }}>
-                                            <a href="https://ecis.in/sayahomes-react/assets/images/saya-piazza/gallery/4.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="https://ecis.in/sayahomes-react/assets/images/saya-piazza/gallery/4.jpg" alt="Saya Piazza" />
+                                            <a href="https://sayahomes.com/assets/images/saya-piazza/gallery/4.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://sayahomes.com/assets/images/saya-piazza/gallery/4.jpg" alt="Saya Piazza" />
                                             </a>
                                         </div>
                                         <div class="swiper-slide gallSlide" role="group" aria-label="3 / 8" style={{ marginRight: "30px" }}>
-                                            <a href="https://ecis.in/sayahomes-react/assets/images/saya-piazza/gallery/5.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="https://ecis.in/sayahomes-react/assets/images/saya-piazza/gallery/5.jpg" alt="Saya Piazza" />
+                                            <a href="https://sayahomes.com/assets/images/saya-piazza/gallery/5.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://sayahomes.com/assets/images/saya-piazza/gallery/5.jpg" alt="Saya Piazza" />
                                             </a>
                                         </div>
                                         <div class="swiper-slide gallSlide" role="group" aria-label="4 / 8" style={{ marginRight: "30px" }}>
-                                            <a href="https://ecis.in/sayahomes-react/assets/images/saya-piazza/gallery/6.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="https://ecis.in/sayahomes-react/assets/images/saya-piazza/gallery/6.jpg" alt="Saya Piazza" />
+                                            <a href="https://sayahomes.com/assets/images/saya-piazza/gallery/6.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://sayahomes.com/assets/images/saya-piazza/gallery/6.jpg" alt="Saya Piazza" />
                                             </a>
                                         </div>
                                         <div class="swiper-slide gallSlide" role="group" aria-label="5 / 8" style={{ marginRight: "30px" }}>
-                                            <a href="https://ecis.in/sayahomes-react/assets/images/saya-piazza/gallery/7.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="https://ecis.in/sayahomes-react/assets/images/saya-piazza/gallery/7.jpg" alt="Saya Piazza" />
+                                            <a href="https://sayahomes.com/assets/images/saya-piazza/gallery/7.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://sayahomes.com/assets/images/saya-piazza/gallery/7.jpg" alt="Saya Piazza" />
                                             </a>
                                         </div>
                                         <div class="swiper-slide gallSlide" role="group" aria-label="6 / 8" style={{ marginRight: "30px" }}>
-                                            <a href="https://ecis.in/sayahomes-react/assets/images/saya-piazza/gallery/8.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="https://ecis.in/sayahomes-react/assets/images/saya-piazza/gallery/8.jpg" alt="Saya Piazza" />
+                                            <a href="https://sayahomes.com/assets/images/saya-piazza/gallery/8.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://sayahomes.com/assets/images/saya-piazza/gallery/8.jpg" alt="Saya Piazza" />
                                             </a>
                                         </div>
                                         <div class="swiper-slide gallSlide" role="group" aria-label="7 / 8" style={{ marginRight: "30px" }}>
-                                            <a href="https://ecis.in/sayahomes-react/assets/images/saya-piazza/gallery/9.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="https://ecis.in/sayahomes-react/assets/images/saya-piazza/gallery/9.jpg" alt="Saya Piazza" />
+                                            <a href="https://sayahomes.com/assets/images/saya-piazza/gallery/9.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://sayahomes.com/assets/images/saya-piazza/gallery/9.jpg" alt="Saya Piazza" />
                                             </a>
                                         </div>
                                         <div class="swiper-slide gallSlide" role="group" aria-label="8 / 8" style={{ marginRight: "30px" }}>
-                                            <a href="https://ecis.in/sayahomes-react/assets/images/saya-piazza/gallery/10.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="https://ecis.in/sayahomes-react/assets/images/saya-piazza/gallery/10.jpg" alt="Saya Piazza" />
+                                            <a href="https://sayahomes.com/assets/images/saya-piazza/gallery/10.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://sayahomes.com/assets/images/saya-piazza/gallery/10.jpg" alt="Saya Piazza" />
                                             </a>
                                         </div>
                                     </div>
@@ -497,14 +497,14 @@ function SayaPiazza() {
                                 className={`galleryContainer ${activeTab === 'video' ? 'show' : 'hide'} w-100`}
                                 id="galleryContainer-video"
                             >
-                                <iframe width="100%" height="515" src="https://www.youtube.com/embed/YZnDosx2HbQ?rel=0&amp;enablejsapi=1&amp;origin=https://sayahomes.com" title="Saya Piazza Feb 2024 Construction Update: Rising to New Heights @25th Feb 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" data-lf-form-tracking-inspected-p1e024brarp4gb6d="true" data-lf-yt-playback-inspected-p1e024brarp4gb6d="true" data-lf-vimeo-playback-inspected-p1e024brarp4gb6d="true" data-gtm-yt-inspected-13="true" id="663097177" data-gtm-yt-inspected-18="true" data-gtm-yt-inspected-23="true"></iframe>
+                                <iframe width="100%" height="515" src="https://www.youtube.com/embed/E6Mg-AH0ZGQ?rel=0&amp;enablejsapi=1&amp;origin=https://sayahomes.com" title="Saya Piazza Sep 2024 Construction Update: Rising to New Heights @11th Sep 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" data-lf-form-tracking-inspected-p1e024brarp4gb6d="true" data-lf-yt-playback-inspected-p1e024brarp4gb6d="true" data-lf-vimeo-playback-inspected-p1e024brarp4gb6d="true" data-gtm-yt-inspected-13="true" id="663097177" data-gtm-yt-inspected-18="true" data-gtm-yt-inspected-23="true"></iframe>
                             </div>
                             <div
                                 className={`galleryContainer ${activeTab === 'location' ? 'show' : 'hide'} w-100`}
                                 id="galleryContainer-location"
                             >
                                 <div class="img-fluid">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/saya-piazza/saya-piazza-location.gif" data-magnify="sp" data-group="sp" data-caption="Location Map"><img src="https://ecis.in/sayahomes-react/assets/images/saya-piazza/saya-piazza-location.gif" alt="Location Map" /></a>
+                                    <a href="https://sayahomes.com/assets/images/saya-piazza/saya-piazza-location.gif" data-magnify="sp" data-group="sp" data-caption="Location Map"><img src="https://sayahomes.com/assets/images/saya-piazza/saya-piazza-location.gif" alt="Location Map" /></a>
                                 </div>
                             </div>
                         </div>
@@ -541,8 +541,8 @@ function SayaPiazza() {
                                     <div class="swiper news-slider blogContainer swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
                                         <div class="swiper-wrapper" id="swiper-wrapper-c99f8a7561e2e45b" aria-live="polite" style={{ transform: "translate3d(0px, 0px, 0px)" }}>
                                             <div class="swiper-slide newsBox blogBox swiper-slide-active" role="group" aria-label="1 / 1" style={{ width: "226px", marginRight: "10px" }}>
-                                                <a href="https://ecis.in/sayahomes-react/assets/images/awards/a8640f21-c37f-41bf-998b-40b17c805372.jpg" class="inner h-100" data-magnify="awards" data-group="awards" data-caption="Excellence in Prime Commercial Project for Saya Piazza">
-                                                    <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/awards/a8640f21-c37f-41bf-998b-40b17c805372-th.jpg" alt="Saya Homes" class="h-100 object-cover" title="" /></div>
+                                                <a href="https://sayahomes.com/assets/images/awards/a8640f21-c37f-41bf-998b-40b17c805372.jpg" class="inner h-100" data-magnify="awards" data-group="awards" data-caption="Excellence in Prime Commercial Project for Saya Piazza">
+                                                    <div class="img-fluid"><img src="https://sayahomes.com/assets/images/awards/a8640f21-c37f-41bf-998b-40b17c805372-th.jpg" alt="Saya Homes" class="h-100 object-cover" title="" /></div>
                                                     <article>
                                                         <h5 class="news-title mt-4">Excellence in Prime Commercial Project for Saya Piazza</h5>
                                                         <p class="mb-0">Times Realty &amp; Infrastructure Conclave 2024. </p>

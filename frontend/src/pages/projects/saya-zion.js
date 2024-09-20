@@ -135,17 +135,17 @@ function SayaZion() {
         <div>
             <Navbar />
             <div className="insideBanner w-100">
-                <img src="https://ecis.in/sayahomes-react/assets/images/zion-banner.jpg" className="h-100 object-cover" alt='' />
+                <img src="https://sayahomes.com/assets/images/zion-banner.jpg" className="h-100 object-cover" alt='' />
                 <div className="project-bannerBox container-lg">
-                    <div className="pageLogo"><img src="https://ecis.in/sayahomes-react/assets/images/zion-logo.png" alt="Saya Zion" /><p>Gaur City 1, Sector 4, Greater Noida</p></div>
+                    <div className="pageLogo"><img src="https://sayahomes.com/assets/images/zion-logo.png" alt="Saya Zion" /><p>Gaur City 1, Sector 4, Greater Noida</p></div>
                     <ul className="list-inline unitsBtn">
 
                         <li className="bottomTranslate translate"><section>
-                            <div className="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/tower.png" alt="Saya Zion" /></div>
+                            <div className="imgBox"><img src="https://sayahomes.com/assets/images/icons/tower.png" alt="Saya Zion" /></div>
                             <p><small>BHK</small><span>2/3/4</span></p>
                         </section></li>
                         <li className="bottomTranslate translate"><section>
-                            <div className="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/area.png" alt="Saya Zion" /></div>
+                            <div className="imgBox"><img src="https://sayahomes.com/assets/images/icons/area.png" alt="Saya Zion" /></div>
                             <p><small>Project Area</small><span>5.17 Acres</span></p>
                         </section></li>
                     </ul>
@@ -156,7 +156,7 @@ function SayaZion() {
                 <div class="container-lg">
                     <div class="pageMenuBtn"><small></small></div>
                     <ul class="list-inline">
-                        <li class="topTranslate "><Link to='/sayahomes-react'><i class="fa fa-home"></i></Link></li>
+                        <li class="topTranslate "><Link to='/'><i class="fa fa-home"></i></Link></li>
                         <li class="topTranslate "><a href="#overview">Overview</a></li>
                         <li class="topTranslate "><a href="#amenities">Amenities</a></li>
                         <li class="topTranslate "><a href="#specifications">Specifications</a></li>
@@ -170,14 +170,14 @@ function SayaZion() {
             <div className="breadcrumbContainer">
                 <div className="container-lg">
                     <ol className="breadcrumb">
-                        <li className="breadcrumb-item"><Link to='/sayahomes-react'>Home</Link></li>
+                        <li className="breadcrumb-item"><Link to='/'>Home</Link></li>
                         <li className="breadcrumb-item active" aria-current="page">Saya Zion</li>
                     </ol>
                 </div>
             </div>
             <section className="w-100">
                 <a name="overview"></a>
-                <div id="overview" className="w-100 padding position-relative lightBg scrollto overviewBg" style={{ backgroundImage: "url(https://ecis.in/sayahomes-react/assets/images/south-x/gallery/1.jpg)" }}>
+                <div id="overview" className="w-100 padding position-relative lightBg scrollto overviewBg" style={{ backgroundImage: "url(https://sayahomes.com/assets/images/south-x/gallery/1.jpg)" }}>
                     <div className="container-lg">
                         <div className="row">
                             <div className="col-lg-12 projectsTag">
@@ -189,19 +189,19 @@ function SayaZion() {
                                 <ul className="list-inline unitsBtn overview-unitsBtn">
                                     <li className="bottomTranslate translate ">
                                         <section>
-                                            <div className="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/unit.png" alt="Saya Zion" /></div>
+                                            <div className="imgBox"><img src="https://sayahomes.com/assets/images/icons/unit.png" alt="Saya Zion" /></div>
                                             <p><small>Floors</small><span>G+20 &amp; G+22</span></p>
                                         </section>
                                     </li>
                                     <li className="bottomTranslate translate ">
                                         <section>
-                                            <div className="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/tower.png" alt="Saya Zion" /></div>
+                                            <div className="imgBox"><img src="https://sayahomes.com/assets/images/icons/tower.png" alt="Saya Zion" /></div>
                                             <p><small>Designed By</small><span>Hafeez Contractor</span></p>
                                         </section>
                                     </li>
                                     <li className="bottomTranslate translate ">
                                         <section>
-                                            <div className="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/area.png" alt="Saya Zion" /></div>
+                                            <div className="imgBox"><img src="https://sayahomes.com/assets/images/icons/area.png" alt="Saya Zion" /></div>
                                             <p><small>Status</small><span>Delivered </span></p>
                                         </section>
                                     </li>
@@ -213,7 +213,7 @@ function SayaZion() {
             </section>
             <section class="w-100">
                 <a name="amenities"></a>
-                <div id="amenities" class="w-100 padding amenitiesContainer" style={{ backgroundImage: "url(https://ecis.in/sayahomes-react/assets/images/saya-zion/amenities.jpg)" }}>
+                <div id="amenities" class="w-100 padding amenitiesContainer" style={{ backgroundImage: "url(https://sayahomes.com/assets/images/saya-zion/amenities.jpg)" }}>
 
                     <div class="container-lg amenitiesWrapper">
                         <div class="amenBox">
@@ -221,10 +221,10 @@ function SayaZion() {
                                 <h3>Amenities</h3>
                                 <div class="allItems">
                                     <ul class="list-inline halfList">
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/park.png" alt="Zen Garden" /></div><span>Zen Garden</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/vision-w.png" alt="Amphitheatre" /></div><span>Amphitheatre</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/yoga1.png" alt="Yoga Lawn" /></div><span>Yoga Lawn</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/mall.png" alt="Clubhouse" /></div><span>Shopping Centres</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/park.png" alt="Zen Garden" /></div><span>Zen Garden</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/vision-w.png" alt="Amphitheatre" /></div><span>Amphitheatre</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/yoga1.png" alt="Yoga Lawn" /></div><span>Yoga Lawn</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/mall.png" alt="Clubhouse" /></div><span>Shopping Centres</span></li>
                                     </ul>
                                 </div>
                                 <span class="arrow">→</span>
@@ -236,10 +236,10 @@ function SayaZion() {
                                 <h3>Features</h3>
                                 <div class="allItems">
                                     <ul class="list-inline halfList">
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/lift.png" alt="Hi-speed Elevators" /></div><span>Elevators</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/lobby.png" alt="A.C. Lobby" /></div><span>A.C. Lobby</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/power-backup.png" alt="Power Back-up" /></div><span>Power Back-up</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/parking.png" alt="Parking" /></div><span>Parking</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/lift.png" alt="Hi-speed Elevators" /></div><span>Elevators</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/lobby.png" alt="A.C. Lobby" /></div><span>A.C. Lobby</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/power-backup.png" alt="Power Back-up" /></div><span>Power Back-up</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/parking.png" alt="Parking" /></div><span>Parking</span></li>
                                     </ul>
                                 </div>
                                 <span class="arrow">→</span>
@@ -251,11 +251,11 @@ function SayaZion() {
                                 <h3>Connectivity</h3>
                                 <div class="allItems">
                                     <ul class="list-inline">
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/railway.png" alt="road" /></div><span> City Centre Metro Station<br />0-15 Min</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/school.png" alt="road" /></div><span> GD Goenka School<br />0-15 Min</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/mall.png" alt="railway" /></div><span>Mall of India<br />15-25 Min</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/hospital.png" alt="railway" /></div><span>Fortis Hospital<br />15-25 Min</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/railway.png" alt="railway" /></div><span>Anand Vihar Railway Station<br />25-35 Min</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/railway.png" alt="road" /></div><span> City Centre Metro Station<br />0-15 Min</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/school.png" alt="road" /></div><span> GD Goenka School<br />0-15 Min</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/mall.png" alt="railway" /></div><span>Mall of India<br />15-25 Min</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/hospital.png" alt="railway" /></div><span>Fortis Hospital<br />15-25 Min</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/railway.png" alt="railway" /></div><span>Anand Vihar Railway Station<br />25-35 Min</span></li>
                                     </ul>
                                     <div class="readmore"><a href="#modalforms" data-toggle="modal" data-modaltype="View on Map" data-brochure="" data-pagename="saya-zion.php" data-projectname="Saya Zion" class="button"><span class="text">View on Map</span></a></div>
                                 </div>
@@ -268,8 +268,8 @@ function SayaZion() {
                                 <h3>Security</h3>
                                 <div class="allItems">
                                     <ul class="list-inline">
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/security.png" alt="security" /></div><span>3-tier Cloud-based Security</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/cctv.png" alt="cctv" /></div><span>24x7 CCTV Surveillance</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/security.png" alt="security" /></div><span>3-tier Cloud-based Security</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/cctv.png" alt="cctv" /></div><span>24x7 CCTV Surveillance</span></li>
                                     </ul>
                                 </div>
                                 <span class="arrow">→</span>
@@ -281,11 +281,11 @@ function SayaZion() {
                                 <h3>Neighbourhood</h3>
                                 <div class="allItems">
                                     <ul class="list-inline">
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/park.png" alt="temple" /></div><span>Expansive Greens</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/mall.png" alt="mall" /></div><span>Shopping Mall</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/park.png" alt="park" /></div><span>Zen Garden</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/hospital.png" alt="hospital" /></div><span>Hospitals</span></li>
-                                        <li><div class="imgBox"><img src="https://ecis.in/sayahomes-react/assets/images/icons/school.png" alt="Schools" /></div><span>Schools</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/park.png" alt="temple" /></div><span>Expansive Greens</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/mall.png" alt="mall" /></div><span>Shopping Mall</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/park.png" alt="park" /></div><span>Zen Garden</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/hospital.png" alt="hospital" /></div><span>Hospitals</span></li>
+                                        <li><div class="imgBox"><img src="https://sayahomes.com/assets/images/icons/school.png" alt="Schools" /></div><span>Schools</span></li>
                                     </ul>
                                 </div>
                                 <span class="arrow">→</span>
@@ -307,10 +307,10 @@ function SayaZion() {
                             <div className="swiper-wrapper">
                                 <div className="swiper-slide specSlide">
                                     <div className="specDetails">
-                                        <div className="spec-img"><img src="https://ecis.in/sayahomes-react/assets/images/saya-zion/specifications/living-room.jpg" alt="Living Room" /></div>
+                                        <div className="spec-img"><img src="https://sayahomes.com/assets/images/saya-zion/specifications/living-room.jpg" alt="Living Room" /></div>
                                         <div className="inner">
                                             <div className="spec-title">
-                                                <div className="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/icons/sofa.png" className="filter-dark" alt="Living Room" /></div>
+                                                <div className="img-fluid"><img src="https://sayahomes.com/assets/images/icons/sofa.png" className="filter-dark" alt="Living Room" /></div>
                                                 <h6>Living Room</h6>
                                             </div>
                                             <p>Designed for gatherings & the family’s entertainment hub.</p>
@@ -329,10 +329,10 @@ function SayaZion() {
                                 </div>
                                 <div className="swiper-slide specSlide">
                                     <div className="specDetails">
-                                        <div className="spec-img"><img src="https://ecis.in/sayahomes-react/assets/images/saya-zion/specifications/master-bedroom.jpg" alt="Master Bedroom" /></div>
+                                        <div className="spec-img"><img src="https://sayahomes.com/assets/images/saya-zion/specifications/master-bedroom.jpg" alt="Master Bedroom" /></div>
                                         <div className="inner">
                                             <div className="spec-title">
-                                                <div className="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/icons/bedroom.png" className="filter-dark" alt="Master Bedroom" /></div>
+                                                <div className="img-fluid"><img src="https://sayahomes.com/assets/images/icons/bedroom.png" className="filter-dark" alt="Master Bedroom" /></div>
                                                 <h6>Master Bedroom</h6>
                                             </div>
                                             <p>Elegantly crafted intimate space to make you feel right at home.</p>
@@ -351,10 +351,10 @@ function SayaZion() {
                                 </div>
                                 <div className="swiper-slide specSlide">
                                     <div className="specDetails">
-                                        <div className="spec-img"><img src="https://ecis.in/sayahomes-react/assets/images/saya-zion/specifications/kitchen.jpg" alt="Kitchen" /></div>
+                                        <div className="spec-img"><img src="https://sayahomes.com/assets/images/saya-zion/specifications/kitchen.jpg" alt="Kitchen" /></div>
                                         <div className="inner">
                                             <div className="spec-title">
-                                                <div className="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/icons/kitchen.png" className="filter-dark" alt="Kitchen" /></div>
+                                                <div className="img-fluid"><img src="https://sayahomes.com/assets/images/icons/kitchen.png" className="filter-dark" alt="Kitchen" /></div>
                                                 <h6>Kitchen</h6>
                                             </div>
                                             <p>Designed to be the heart of the home.</p>
@@ -376,10 +376,10 @@ function SayaZion() {
                                 </div>
                                 <div className="swiper-slide specSlide">
                                     <div className="specDetails">
-                                        <div className="spec-img"><img src="https://ecis.in/sayahomes-react/assets/images/saya-zion/specifications/woodwork.jpg" alt="woodwork" /></div>
+                                        <div className="spec-img"><img src="https://sayahomes.com/assets/images/saya-zion/specifications/woodwork.jpg" alt="woodwork" /></div>
                                         <div className="inner">
                                             <div className="spec-title">
-                                                <div className="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/icons/wood.svg" className="filter-dark" alt="woodwork" /></div>
+                                                <div className="img-fluid"><img src="https://sayahomes.com/assets/images/icons/wood.svg" className="filter-dark" alt="woodwork" /></div>
                                                 <h6>Woodwork</h6>
                                             </div>
                                             <p>Interiors crafted with rich woodwork for an elegant finish.</p>
@@ -393,10 +393,10 @@ function SayaZion() {
                                 </div>
                                 <div className="swiper-slide specSlide">
                                     <div className="specDetails">
-                                        <div className="spec-img"><img src="https://ecis.in/sayahomes-react/assets/images/saya-zion/specifications/bathroom.jpg" alt="Bathroom" /></div>
+                                        <div className="spec-img"><img src="https://sayahomes.com/assets/images/saya-zion/specifications/bathroom.jpg" alt="Bathroom" /></div>
                                         <div className="inner">
                                             <div className="spec-title">
-                                                <div className="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/icons/master-toilet.png" className="filter-dark" alt="Bathroom" /></div>
+                                                <div className="img-fluid"><img src="https://sayahomes.com/assets/images/icons/master-toilet.png" className="filter-dark" alt="Bathroom" /></div>
                                                 <h6>Bathroom</h6>
                                             </div>
                                             <p>A perfect place built for you to relax and unwind.</p>
@@ -457,28 +457,28 @@ function SayaZion() {
                                 <div className="swiper extSlider w-100">
                                     <div className="swiper-wrapper">
                                         <div className="swiper-slide gallSlide">
-                                            <a href="https://ecis.in/sayahomes-react/assets/images/saya-zion/gallery/Master-Bedroom-zion.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="https://ecis.in/sayahomes-react/assets/images/saya-zion/gallery/Master-Bedroom-zion.jpg" alt="Saya Zion" />
+                                            <a href="https://sayahomes.com/assets/images/saya-zion/gallery/Master-Bedroom-zion.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://sayahomes.com/assets/images/saya-zion/gallery/Master-Bedroom-zion.jpg" alt="Saya Zion" />
                                             </a>
                                         </div>
                                         <div className="swiper-slide gallSlide">
-                                            <a href="https://ecis.in/sayahomes-react/assets/images/saya-zion/gallery/Bedroom-zion.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="https://ecis.in/sayahomes-react/assets/images/saya-zion/gallery/Bedroom-zion.jpg" alt="Saya Zion" />
+                                            <a href="https://sayahomes.com/assets/images/saya-zion/gallery/Bedroom-zion.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://sayahomes.com/assets/images/saya-zion/gallery/Bedroom-zion.jpg" alt="Saya Zion" />
                                             </a>
                                         </div>
                                         <div className="swiper-slide gallSlide">
-                                            <a href="https://ecis.in/sayahomes-react/assets/images/saya-zion/gallery/Washroom-zion.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="https://ecis.in/sayahomes-react/assets/images/saya-zion/gallery/Washroom-zion.jpg" alt="Saya Zion" />
+                                            <a href="https://sayahomes.com/assets/images/saya-zion/gallery/Washroom-zion.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://sayahomes.com/assets/images/saya-zion/gallery/Washroom-zion.jpg" alt="Saya Zion" />
                                             </a>
                                         </div>
                                         <div className="swiper-slide gallSlide">
-                                            <a href="https://ecis.in/sayahomes-react/assets/images/saya-zion/gallery/woodwork-zion.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="https://ecis.in/sayahomes-react/assets/images/saya-zion/gallery/woodwork-zion.jpg" alt="Saya Zion" />
+                                            <a href="https://sayahomes.com/assets/images/saya-zion/gallery/woodwork-zion.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://sayahomes.com/assets/images/saya-zion/gallery/woodwork-zion.jpg" alt="Saya Zion" />
                                             </a>
                                         </div>
                                         <div className="swiper-slide gallSlide">
-                                            <a href="https://ecis.in/sayahomes-react/assets/images/saya-zion/gallery/Kitchen-zion.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
-                                                <img src="https://ecis.in/sayahomes-react/assets/images/saya-zion/gallery/Kitchen-zion.jpg" alt="Saya Zion" />
+                                            <a href="https://sayahomes.com/assets/images/saya-zion/gallery/Kitchen-zion.jpg" data-magnify="gal" data-group="ext" data-caption="Image Gallery">
+                                                <img src="https://sayahomes.com/assets/images/saya-zion/gallery/Kitchen-zion.jpg" alt="Saya Zion" />
                                             </a>
                                         </div>
                                     </div>
@@ -499,7 +499,7 @@ function SayaZion() {
                                 id="galleryContainer-location"
                             >
                                 <div className="img-fluid">
-                                    <a href="https://ecis.in/sayahomes-react/assets/images/saya-zion/saya-zion-location.jpg" data-magnify="sp" data-group="sp" data-caption="Location Map"><img src="https://ecis.in/sayahomes-react/assets/images/saya-zion/saya-zion-location.jpg" alt="Location Map" /></a>
+                                    <a href="https://sayahomes.com/assets/images/saya-zion/saya-zion-location.jpg" data-magnify="sp" data-group="sp" data-caption="Location Map"><img src="https://sayahomes.com/assets/images/saya-zion/saya-zion-location.jpg" alt="Location Map" /></a>
                                 </div>
                             </div> */}
                         </div>
@@ -538,8 +538,8 @@ function SayaZion() {
                                     <div class="swiper news-slider blogContainer">
                                         <div class="swiper-wrapper">
                                             <div class="swiper-slide newsBox blogBox">
-                                                <a href="https://ecis.in/sayahomes-react/assets/images/awards/3.jpg" class="inner h-100" data-magnify="awards" data-group="awards" data-caption="Real Estate Commercial Project Of The Year - Saya Southx">
-                                                    <div class="img-fluid"><img src="https://ecis.in/sayahomes-react/assets/images/awards/th3.jpg" alt="Saya Homes" class="h-100 object-cover" title="" /></div>
+                                                <a href="https://sayahomes.com/assets/images/awards/3.jpg" class="inner h-100" data-magnify="awards" data-group="awards" data-caption="Real Estate Commercial Project Of The Year - Saya Southx">
+                                                    <div class="img-fluid"><img src="https://sayahomes.com/assets/images/awards/th3.jpg" alt="Saya Homes" class="h-100 object-cover" title="" /></div>
                                                     <article>
                                                         <h5 class="news-title mt-4 text-truncate">Real Estate Commercial Project Of The Year - Saya Southx</h5>
                                                         <p class="mb-0">Times Business Awards, North 2024</p>

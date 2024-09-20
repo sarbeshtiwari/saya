@@ -19,7 +19,7 @@ function CSR() {
                 <div className="breadcrumbContainer">
                     <div className="container-lg">
                         <ol className="breadcrumb">
-                            <li className="breadcrumb-item"><Link to='/sayahomes-react'>Home</Link></li>
+                            <li className="breadcrumb-item"><Link to='/'>Home</Link></li>
                             <li className="breadcrumb-item active" aria-current="page">CSR</li>
                         </ol>
                     </div>
@@ -44,7 +44,7 @@ function CSR() {
                         <div className="row gap-row">
                             <div className="col-md-4 csr-img">
                                 <div className="img-fluid position-relative">
-                                    <img src="https://ecis.in/sayahomes-react/assets/images/csr/20220530110800-Saya-Health-Check-up-2020.jpg" className="h-100 object-cover" alt='' />
+                                    <img src="https://sayahomes.com/assets/images/csr/20220530110800-Saya-Health-Check-up-2020.jpg" className="h-100 object-cover" alt='' />
                                 </div>
                             </div>
                             <div className="col-md-8  csr-details">
@@ -60,7 +60,7 @@ function CSR() {
                         <div className="row gap-row">
                             <div className="col-md-4 csr-img">
                                 <div className="img-fluid position-relative">
-                                    <img src="https://ecis.in/sayahomes-react/assets/images/csr/20220530110729-WORLD_ENVIRONMENT_DAY,_2018.jpg" className="h-100 object-cover" alt='' />
+                                    <img src="https://sayahomes.com/assets/images/csr/20220530110729-WORLD_ENVIRONMENT_DAY,_2018.jpg" className="h-100 object-cover" alt='' />
                                 </div>
                             </div>
                             <div className="col-md-8 csr-details">
@@ -76,7 +76,7 @@ function CSR() {
                         <div className="row gap-row">
                             <div className="col-md-4 csr-img">
                                 <div className="img-fluid position-relative">
-                                    <img src="https://ecis.in/sayahomes-react/assets/images/csr/20220530110745-FREE_HEALTH_CHECK-UP_-_2018.jpg" className="h-100 object-cover" alt='' />
+                                    <img src="https://sayahomes.com/assets/images/csr/20220530110745-FREE_HEALTH_CHECK-UP_-_2018.jpg" className="h-100 object-cover" alt='' />
                                 </div>
                             </div>
                             <div className="col-md-8 csr-details">
@@ -92,7 +92,7 @@ function CSR() {
                         <div className="row gap-row">
                             <div className="col-md-4 csr-img">
                                 <div className="img-fluid position-relative">
-                                    <img src="https://ecis.in/sayahomes-react/assets/images/csr/20220530110710-WEWILL_-_THIRD_FOOD-2018.jpg" className="h-100 object-cover" alt='' />
+                                    <img src="https://sayahomes.com/assets/images/csr/20220530110710-WEWILL_-_THIRD_FOOD-2018.jpg" className="h-100 object-cover" alt='' />
                                 </div>
                             </div>
                             <div className="col-md-8 csr-details">
@@ -108,7 +108,7 @@ function CSR() {
                         <div className="row gap-row">
                             <div className="col-md-4 csr-img">
                                 <div className="img-fluid position-relative">
-                                    <img src="https://ecis.in/sayahomes-react/assets/images/csr/20220530110656-AYURVEDIC_HEALTH_CHECKUP_-_2018.jpg" className="h-100 object-cover" alt='' />
+                                    <img src="https://sayahomes.com/assets/images/csr/20220530110656-AYURVEDIC_HEALTH_CHECKUP_-_2018.jpg" className="h-100 object-cover" alt='' />
                                 </div>
                             </div>
                             <div className="col-md-8 csr-details">
@@ -124,7 +124,7 @@ function CSR() {
                         <div className="row gap-row">
                             <div className="col-md-4 csr-img">
                                 <div className="img-fluid position-relative">
-                                    <img src="https://ecis.in/sayahomes-react/assets/images/csr/20220530110643-ON_WORLD_HEALTH_DAY_-_2018.jpg" className="h-100 object-cover" alt='' />
+                                    <img src="https://sayahomes.com/assets/images/csr/20220530110643-ON_WORLD_HEALTH_DAY_-_2018.jpg" className="h-100 object-cover" alt='' />
                                 </div>
                             </div>
                             <div className="col-md-8 csr-details">
@@ -140,7 +140,7 @@ function CSR() {
                         <div className="row gap-row">
                             <div className="col-md-4 csr-img">
                                 <div className="img-fluid position-relative">
-                                    <img src="https://ecis.in/sayahomes-react/assets/images/csr/20220530110620-WEWILL_-_SECOND_FOOD-2018.jpg" className="h-100 object-cover" alt='' />
+                                    <img src="https://sayahomes.com/assets/images/csr/20220530110620-WEWILL_-_SECOND_FOOD-2018.jpg" className="h-100 object-cover" alt='' />
                                 </div>
                             </div>
                             <div className="col-md-8 csr-details">
@@ -156,7 +156,7 @@ function CSR() {
                         <div className="row gap-row">
                             <div className="col-md-4 csr-img">
                                 <div className="img-fluid position-relative">
-                                    <img src="https://ecis.in/sayahomes-react/assets/images/csr/20220530110620-WEWILL_-_SECOND_FOOD-2018.jpg" className="h-100 object-cover" alt='' />
+                                    <img src="https://sayahomes.com/assets/images/csr/20220530110620-WEWILL_-_SECOND_FOOD-2018.jpg" className="h-100 object-cover" alt='' />
                                 </div>
                             </div>
                             <div className="col-md-8 csr-details">
@@ -172,7 +172,7 @@ function CSR() {
                         <div className="row gap-row">
                             <div className="col-md-4 csr-img">
                                 <div className="img-fluid position-relative">
-                                    <img src="https://ecis.in/sayahomes-react/assets/images/csr/20220530110553-GIVING_A_WARM_HUG_-_2017.jpg" className="h-100 object-cover" alt='' />
+                                    <img src="https://sayahomes.com/assets/images/csr/20220530110553-GIVING_A_WARM_HUG_-_2017.jpg" className="h-100 object-cover" alt='' />
                                 </div>
                             </div>
                             <div className="col-md-8 csr-details">
@@ -188,7 +188,7 @@ function CSR() {
                         <div className="row gap-row">
                             <div className="col-md-4 csr-img">
                                 <div className="img-fluid position-relative">
-                                    <img src="https://ecis.in/sayahomes-react/assets/images/csr/20220530110325-CHILDRENS_DAY_2017.jpg" className="h-100 object-cover" alt='' />
+                                    <img src="https://sayahomes.com/assets/images/csr/20220530110325-CHILDRENS_DAY_2017.jpg" className="h-100 object-cover" alt='' />
                                 </div>
                             </div>
                             <div className="col-md-8 csr-details">
@@ -204,7 +204,7 @@ function CSR() {
                         <div className="row gap-row">
                             <div className="col-md-4 csr-img">
                                 <div className="img-fluid position-relative">
-                                    <img src="https://ecis.in/sayahomes-react/assets/images/csr/20220530110313-GREEN_INDIA_CLEAN_INDIA_-2017.jpg" className="h-100 object-cover" alt='' />
+                                    <img src="https://sayahomes.com/assets/images/csr/20220530110313-GREEN_INDIA_CLEAN_INDIA_-2017.jpg" className="h-100 object-cover" alt='' />
                                 </div>
                             </div>
                             <div className="col-md-8 csr-details">
@@ -220,7 +220,7 @@ function CSR() {
                         <div className="row gap-row">
                             <div className="col-md-4 csr-img">
                                 <div className="img-fluid position-relative">
-                                    <img src="https://ecis.in/sayahomes-react/assets/images/csr/20220530110151-SWACHH_INDIRAPURAM_-2016.jpg" className="h-100 object-cover" alt='' />
+                                    <img src="https://sayahomes.com/assets/images/csr/20220530110151-SWACHH_INDIRAPURAM_-2016.jpg" className="h-100 object-cover" alt='' />
                                 </div>
                             </div>
                             <div className="col-md-8 csr-details">
@@ -236,7 +236,7 @@ function CSR() {
                         <div className="row gap-row">
                             <div className="col-md-4 csr-img">
                                 <div className="img-fluid position-relative">
-                                    <img src="https://ecis.in/sayahomes-react/assets/images/csr/20220530105250-SHARE_WOOLENS_SHARE_WARMTH_-_2016.jpg" className="h-100 object-cover" alt='' />
+                                    <img src="https://sayahomes.com/assets/images/csr/20220530105250-SHARE_WOOLENS_SHARE_WARMTH_-_2016.jpg" className="h-100 object-cover" alt='' />
                                 </div>
                             </div>
                             <div className="col-md-8 csr-details">
@@ -258,12 +258,12 @@ function CSR() {
                             </div>
                         </div>
                         <div className="col-lg-6 gridBoxImg">
-                            <img src="https://ecis.in/sayahomes-react/assets/images/csr.jpg" className="h-100 object-cover" alt='' />
+                            <img src="https://sayahomes.com/assets/images/csr.jpg" className="h-100 object-cover" alt='' />
                         </div>
                     </div>
                 </div>
             </div>
-            <div className="logo-icon"><img src="https://ecis.in/sayahomes-react/assets/images/logo-icon.svg" alt="Saya Homes" /></div>
+            <div className="logo-icon"><img src="https://sayahomes.com/assets/images/logo-icon.svg" alt="Saya Homes" /></div>
             <FooterAll />
         </div>
 

@@ -11,7 +11,7 @@ function FooterAll() {
                             <div className="col-lg-4 foot-About">
                                 <div className="insideBox pr-0 pr-lg-5">
                                     <div className="footer-logo">
-                                        <img src="https://ecis.in/sayahomes-react/assets/images/logo.svg" className="filter-white" alt="" />
+                                        <img src="https://sayahomes.com/assets/images/logo.svg" className="filter-white" alt="" />
                                     </div>
                                     <ul className="list-inline">
                                         <li>
@@ -81,7 +81,7 @@ function FooterAll() {
                             <a href="#">Terms & Conditions</a>
                         </div>
                         <div className="copyrights">
-                            <p>© Saya Homes 2024 | Designed &amp; Developed by: <img src="https://ecis.in/sayahomes-react/assets/images/ecis.png" alt="" /></p>
+                            <p>© Saya Homes 2024 | Designed &amp; Developed by: <img src="https://sayahomes.com/assets/images/ecis.png" alt="" /></p>
                         </div>
                     </div>
                 </div>

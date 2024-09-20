@@ -73,7 +73,7 @@ function Testimonials() {
                                         onClick={handleOpenModal} // Event handler for opening the modal
                                     >
                                         <img
-                                            src="https://ecis.in/sayahomes-react/assets/images/PRgoLcERlOQ.jpg"
+                                            src="https://sayahomes.com/assets/images/PRgoLcERlOQ.jpg"
                                             title="Saya SouthX - Unrivalled Destination Unforgettable Experiences"
                                             alt="Saya SouthX - Unrivalled Destination Unforgettable Experiences"
                                             className="h-100 object-cover"
@@ -89,7 +89,7 @@ function Testimonials() {
                             <div className="swiper-slide testimBox">
                                 <div className="testim-video">
                                     <a href="#video-Modal" data-src="https://www.youtube.com/embed/MFdoV42c7Bk?rel=0&amp;autoplay=1" data-title="Saya SouthX: Unrivalled Destination Unforgettable Experiences, Must Invest to get Best Return" data-toggle="modal" className="img-fluid position-relative h-100" onClick={handleOpenModal}>
-                                        <img src="https://ecis.in/sayahomes-react/assets/images/MFdoV42c7Bk.jpg" title="Saya SouthX: Unrivalled Destination Unforgettable Experiences, Must Invest to get Best Return" alt="Saya SouthX: Unrivalled Destination Unforgettable Experiences, Must Invest to get Best Return" className="h-100 object-cover" />
+                                        <img src="https://sayahomes.com/assets/images/MFdoV42c7Bk.jpg" title="Saya SouthX: Unrivalled Destination Unforgettable Experiences, Must Invest to get Best Return" alt="Saya SouthX: Unrivalled Destination Unforgettable Experiences, Must Invest to get Best Return" className="h-100 object-cover" />
                                         <i className="fa fa-play videoBtn shadow"></i>
                                         <div className="testim-name">
                                             <b>Mr Vishal Bhardwaj</b>
@@ -101,7 +101,7 @@ function Testimonials() {
                             <div className="swiper-slide testimBox">
                                 <div className="testim-video">
                                     <a href="#video-Modal" data-src="https://www.youtube.com/embed/M5_9_4AppSg?rel=0&amp;autoplay=1" data-title="Saya South X Excavation" data-toggle="modal" className="img-fluid position-relative h-100" onClick={handleOpenModal}>
-                                        <img src="https://ecis.in/sayahomes-react/assets/images/testim-gold-indrapuram.jpg" title="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 4" alt="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 3" className="h-100 object-cover" />
+                                        <img src="https://sayahomes.com/assets/images/testim-gold-indrapuram.jpg" title="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 4" alt="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 3" className="h-100 object-cover" />
                                         <i className="fa fa-play videoBtn shadow"></i>
                                         <div className="testim-name">
                                             <b>Mr Prakash Ranawat</b>
@@ -113,7 +113,7 @@ function Testimonials() {
                             <div className="swiper-slide testimBox">
                                 <div className="testim-video">
                                     <a href="#video-Modal" data-src="videos/Happy-Residents-GoldAvenue-4.mp4" data-title="Saya South X Excavation" data-toggle="modal" className="img-fluid position-relative h-100" onClick={handleOpenModal}>
-                                        <img src="https://ecis.in/sayahomes-react/assets/images/Video-4_1.jpg" title="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 4" alt="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 3" className="h-100 object-cover" />
+                                        <img src="https://sayahomes.com/assets/images/Video-4_1.jpg" title="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 4" alt="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 3" className="h-100 object-cover" />
                                         <i className="fa fa-play videoBtn shadow"></i>
                                         <div className="testim-name">
                                             <small>Owns a property in Saya Gold Avenue</small>
@@ -124,7 +124,7 @@ function Testimonials() {
                             <div className="swiper-slide testimBox">
                                 <div className="testim-video">
                                     <a href="#video-Modal" data-src="videos/customers3.mp4" data-title="Saya South X Excavation" data-toggle="modal" className="img-fluid position-relative h-100" onClick={handleOpenModal}>
-                                        <img src="https://ecis.in/sayahomes-react/assets/images/home3_1.avif" title="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 4" alt="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 3" className="h-100 object-cover" />
+                                        <img src="https://sayahomes.com/assets/images/home3_1.avif" title="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 4" alt="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 3" className="h-100 object-cover" />
                                         <i className="fa fa-play videoBtn shadow"></i>
                                         <div className="testim-name">
                                             <b>Mr Vikash</b>
@@ -136,7 +136,7 @@ function Testimonials() {
                             <div className="swiper-slide testimBox">
                                 <div className="testim-video">
                                     <a href="#video-Modal" data-src="https://sayahomes.com/videos/The-best-in-Delhi-NCR.mp4" data-title="Saya South X Excavation" data-toggle="modal" className="img-fluid position-relative h-100" onClick={handleOpenModal}>
-                                        <img src="https://ecis.in/sayahomes-react/assets/images/Video-1.avif" title="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 4" alt="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 3" className="h-100 object-cover" />
+                                        <img src="https://sayahomes.com/assets/images/Video-1.avif" title="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 4" alt="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 3" className="h-100 object-cover" />
                                         <i className="fa fa-play videoBtn shadow"></i>
                                         <div className="testim-name">
                                             <b>Mr Vajay </b>
@@ -148,7 +148,7 @@ function Testimonials() {
                             <div className="swiper-slide testimBox">
                                 <div className="testim-video">
                                     <a href="#video-Modal" data-src="https://sayahomes.com/videos/Real-Estate-reviews-Gold-Avenue.mp4" data-title="Saya South X Excavation" data-toggle="modal" className="img-fluid position-relative h-100" onClick={handleOpenModal}>
-                                        <img src="https://ecis.in/sayahomes-react/assets/images/Video-2.avif" title="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 4" alt="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 3" className="h-100 object-cover" />
+                                        <img src="https://sayahomes.com/assets/images/Video-2.avif" title="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 4" alt="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 3" className="h-100 object-cover" />
                                         <i className="fa fa-play videoBtn shadow"></i>
                                         <div className="testim-name">
                                             <b>Mr Manoj</b>
@@ -160,7 +160,7 @@ function Testimonials() {
                             <div className="swiper-slide testimBox">
                                 <div className="testim-video">
                                     <a href="#video-Modal" data-src="https://sayahomes.com/videos/Happy-Residents-GoldAvenue.mp4" data-title="Saya South X Excavation" data-toggle="modal" className="img-fluid position-relative h-100" onClick={handleOpenModal}>
-                                        <img src="https://ecis.in/sayahomes-react/assets/images/Video-3_1.avif" title="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 4" alt="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 3" className="h-100 object-cover" />
+                                        <img src="https://sayahomes.com/assets/images/Video-3_1.avif" title="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 4" alt="Saya Homes - Real Estate Company in Delhi NCR - Testimonial - Video 3" className="h-100 object-cover" />
                                         <i className="fa fa-play videoBtn shadow"></i>
                                         <div className="testim-name">
                                             <b>Mr Anil</b>
